@@ -1,35 +1,61 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d3d,100:58a6ff&height=220&section=header&text=amarkDOTdev&fontSize=72&fontColor=58a6ff&fontAlignY=40&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20Israel%20%F0%9F%87%AE%F0%9F%87%B1&descAlignY=62&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d2137,100:00b4d8&height=260&section=header&text=amarkDOTdev&fontSize=80&fontColor=00b4d8&fontAlignY=45&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20Israel&descAlignY=65&descSize=22&animation=scaleIn&stroke=00b4d8&strokeWidth=2" />
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Infrastructure+as+Code+%E2%80%94+terraform+apply+%E2%9C%94;Kubernetes+%26+Container+Orchestration;CI%2FCD+Pipeline+Architect;Cloud+Native+%7C+AWS+%7C+Azure+%7C+GCP;GitOps+%7C+ArgoCD+%7C+FluxCD;Automating+Everything+%F0%9F%9A%80" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarkdotdev&label=Profile+Views&color=58a6ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/amarkdotdev?style=flat-square&color=58a6ff&label=Followers" />
-  <img src="https://img.shields.io/github/stars/amarkdotdev?style=flat-square&color=58a6ff&label=Stars" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=terraform+apply+✔️+%7C+0+errors%2C+0+warnings;kubectl+get+pods+--all-namespaces+%7C+grep+Running;git+push+origin+main+%7C+CI%2FCD+triggered+🚀;Automating+infrastructure%2C+one+commit+at+a+time;Cloud+Native+%7C+K8s+%7C+GitOps+%7C+IaC)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=amarkdotdev&label=Profile+Views&color=00b4d8&style=flat-square)
+![Followers](https://img.shields.io/github/followers/amarkdotdev?style=flat-square&color=00b4d8&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/amarkdotdev?style=flat-square&color=00b4d8&label=Total+Stars&logo=github)
+
+</div>
 
 ---
 
-## `$ whoami`
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### `$ whoami`
 
 ```yaml
 name:       amarkDOTdev
 location:   Israel 🇮🇱
 role:       DevOps / Platform Engineer
 website:    https://amark.dev
-focus:
-  - Cloud-native infrastructure design
+
+expertise:
   - Kubernetes & container orchestration
-  - CI/CD pipelines & GitOps workflows
-  - Infrastructure as Code (Terraform / Pulumi)
-  - Observability, reliability & incident response
-currently_learning: [eBPF, Platform Engineering, AI-Ops]
-open_to:    [Consulting, Collaboration, Open Source]
+  - Infrastructure as Code (Terraform)
+  - CI/CD pipelines & GitOps (ArgoCD)
+  - Multi-cloud: AWS · Azure · GCP
+  - Observability & SRE practices
+
+currently_hacking_on:
+  - eBPF-based network observability
+  - Platform Engineering with Backstage
+  - AI-driven Ops automation
+
+available_for:
+  - Consulting & architecture reviews
+  - Open source collaboration
+  - Technical talks & mentoring
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarkdotdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4&ring_color=00b4d8)](https://github.com/amarkdotdev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarkdotdev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8)](https://github.com/amarkdotdev)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,9 +63,9 @@ open_to:    [Consulting, Collaboration, Open Source]
 
 <div align="center">
 
-| 🌐 Website | 💼 LinkedIn | 🐦 Twitter / X |
-|:---:|:---:|:---:|
-| [![amark.dev](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwebdotdev&subtitle=amark.dev&size=square)](https://amark.dev) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Famarkdotdev&subtitle=amarkdotdev&size=square)](https://linkedin.com/in/amarkdotdev) | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Famarkdotdev&subtitle=%40amarkdotdev&size=square)](https://x.com/amarkdotdev) |
+| 🌐 Website | 💼 LinkedIn | 🐦 Twitter / X | 📧 Email |
+|:---:|:---:|:---:|:---:|
+| [![amark.dev](https://img.shields.io/badge/amark.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=0d1117)](https://amark.dev) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://linkedin.com/in/amarkdotdev) | [![Twitter](https://img.shields.io/badge/Twitter%2FX-0d1117?style=for-the-badge&logo=x&logoColor=00b4d8&labelColor=0d1117)](https://x.com/amarkdotdev) | [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:amark@amark.dev) |
 
 </div>
 
@@ -47,41 +73,62 @@ open_to:    [Consulting, Collaboration, Open Source]
 
 ## `$ ls -la /tech-stack`
 
-### ☁️ Cloud & IaC
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🐳 Containers & Orchestration
-<div>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,githubactions" />
-</div>
+**☁️ Cloud & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible&theme=dark" />
 
-### 📊 Observability & Monitoring
-<div>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-</div>
+**🐳 Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,linux&theme=dark" />
 
-### 💻 Languages & Scripting
-<div>
-  <img src="https://skillicons.dev/icons?i=python,bash,go,typescript,yaml" />
-</div>
+</td>
+<td width="50%" valign="top">
 
-### 🔐 Security & VCS
-<div>
-  <img src="https://skillicons.dev/icons?i=vault,github,gitlab,linux" />
-</div>
+**🔁 CI/CD & GitOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,git&theme=dark" />
+
+**💻 Languages & Scripting**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,bash,go,typescript,vim&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kafka&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Security & Secrets**
+<br/>
+<img src="https://skillicons.dev/icons?i=vault,nginx,redis,postgres&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git log --stat`
+## `$ git log --all --graph`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=amarkdotdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkdotdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amarkdotdev&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amarkdotdev&theme=github_dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amarkdotdev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amarkdotdev&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amarkdotdev&theme=github_dark&utcOffset=3" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarkdotdev&theme=github_dark" />
 
 </div>
 
@@ -90,7 +137,21 @@ open_to:    [Consulting, Collaboration, Open Source]
 ## `$ kubectl top trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarkdotdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amarkdotdev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+---
+
+## `$ watch -n86400 snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -98,18 +159,35 @@ open_to:    [Consulting, Collaboration, Open Source]
 ## `$ watch -n1 git activity`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarkdotdev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarkdotdev&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ff6b6b&area=true&area_color=00b4d8&hide_border=true" />
 </div>
 
 ---
 
-## `$ cat /etc/philosophy`
+## `$ cat /etc/motd`
 
-> _"Automate the pain away. If you did it twice, script it. If you scripted it twice, orchestrate it."_
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  "Automate the pain away.                                        ║
+║   If you did it twice — script it.                               ║
+║   If you scripted it twice — orchestrate it.                     ║
+║   If you orchestrated it twice — open source it."               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-> [!IMPORTANT]
-> **Recruiter or collaborator?** → [📄 Download my CV](https://amark.dev/cv) &nbsp;|&nbsp; [🌐 amark.dev](https://amark.dev)
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=twinkling" />
+> [!IMPORTANT]
+> **Recruiter or collaborator?**
+>
+> [📄 Download CV](https://amark.dev/cv) &nbsp;·&nbsp; [🌐 amark.dev](https://amark.dev) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/amarkdotdev)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a192f,100:0d1117&height=130&section=footer&animation=twinkling" />
