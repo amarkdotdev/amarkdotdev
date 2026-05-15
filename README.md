@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:00b4d8&height=260&section=header&text=amarkDOTdev&fontSize=80&fontColor=00b4d8&fontAlignY=42&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20Israel&descAlignY=62&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:00b4d8&height=200&section=header" />
+
+<h1 align="center">amarkDOTdev</h1>
+<p align="center"><b>DevOps &amp; Platform Engineer &nbsp;|&nbsp; 🇮🇱 Israel</b></p>
 
 <div align="center">
 
