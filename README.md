@@ -1,7 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:00b4d8&height=200&section=header" />
-
-<h1 align="center">amarkDOTdev</h1>
-<p align="center"><b>DevOps &amp; Platform Engineer &nbsp;|&nbsp; 🇮🇱 Israel</b></p>
+<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/header.svg" alt="amarkDOTdev header" />
 
 <div align="center">
 
