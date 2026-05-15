@@ -83,7 +83,7 @@ available_for:
 
 **🐳 Containers & Orchestration**
 <br/>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux&theme=dark" />
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ available_for:
 
 **🔐 Security & Secrets**
 <br/>
-<img src="https://skillicons.dev/icons?i=vault,nginx,redis,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cloudflare,nginx,redis,postgres&theme=dark" />
 
 </td>
 </tr>
