@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,70:0d2137,100:00b4d8&height=260&section=header&text=amarkDOTdev&fontSize=80&fontColor=00b4d8&fontAlignY=45&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20Israel&descAlignY=65&descSize=22&animation=scaleIn&stroke=00b4d8&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:00b4d8&height=260&section=header&text=amarkDOTdev&fontSize=80&fontColor=00b4d8&fontAlignY=42&desc=DevOps%20%26%20Platform%20Engineer%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20Israel&descAlignY=62&descSize=22&animation=fadeIn" />
 
 <div align="center">
 
@@ -147,9 +147,9 @@ available_for:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/amarkdotdev/amarkdotdev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
