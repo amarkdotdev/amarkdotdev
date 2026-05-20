@@ -37,12 +37,6 @@ I build Kubernetes platforms, deployment guardrails, and cloud automation that r
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/amarkdotdev/amarkdotdev_website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=amarkdotdev&repo=amarkdotdev_website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4&icon_color=00b4d8" />
-  </a>
-</div>
-
 ### Highlights
 
 - **[PatchPulse](https://github.com/amarkdotdev/patchpulse)**  
@@ -50,9 +44,6 @@ I build Kubernetes platforms, deployment guardrails, and cloud automation that r
 
 - **[dudebot-lambda-website](https://github.com/amarkdotdev/dudebot-lambda-website)**  
   Product site for a smart solar boiler controller. Useful as proof of shipping a complete public-facing project, not just scripts and labs.
-
-- **[amarkdotdev_website](https://github.com/amarkdotdev/amarkdotdev_website)**  
-  Personal site codebase. Good entry point for reviewing frontend quality, structure, and how I present technical work publicly.
 
 ---
 
