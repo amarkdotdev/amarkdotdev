@@ -73,7 +73,7 @@ interested_in:
 
 - [PatchPulse](https://github.com/amarkdotdev/patchpulse)
 - [amark.dev](https://amark.dev)
-- [LinkedIn](https://linkedin.com/in/amarkdotdev)
+- [LinkedIn](https://www.linkedin.com/in/aharonmark/)
 
 </div>
 
@@ -89,7 +89,7 @@ interested_in:
 
 | 🌐 Website | 💼 LinkedIn | 🐦 Twitter / X | 📧 Email |
 |:---:|:---:|:---:|:---:|
-| [![amark.dev](https://img.shields.io/badge/amark.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=0d1117)](https://amark.dev) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://linkedin.com/in/amarkdotdev) | [![Twitter](https://img.shields.io/badge/Twitter%2FX-0d1117?style=for-the-badge&logo=x&logoColor=00b4d8&labelColor=0d1117)](https://x.com/amarkdotdev) | [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:amark@amark.dev) |
+| [![amark.dev](https://img.shields.io/badge/amark.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=0d1117)](https://amark.dev) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/) | [![Twitter](https://img.shields.io/badge/Twitter%2FX-0d1117?style=for-the-badge&logo=x&logoColor=00b4d8&labelColor=0d1117)](https://x.com/amarkdotdev) | [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com) |
 
 </div>
 
@@ -210,7 +210,7 @@ interested_in:
 > [!IMPORTANT]
 > **Recruiter or collaborator?**
 >
-> [📄 Download CV](https://amark.dev/cv) &nbsp;·&nbsp; [🌐 amark.dev](https://amark.dev) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/amarkdotdev)
+> [📄 Download CV](https://amark.dev/cv) &nbsp;·&nbsp; [🌐 amark.dev](https://amark.dev) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/aharonmark/)
 
 </div>
 
