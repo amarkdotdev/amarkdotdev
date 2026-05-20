@@ -205,16 +205,16 @@ const bars = months
 
 const rows = visibleRows
   .map((pr, index) => {
-    const y = 336 + index * 42;
+    const y = 404 + index * 36;
     if (!pr) {
       return `
-      <line x1="28" y1="${y - 22}" x2="892" y2="${y - 22}" stroke="#293241" stroke-width="1" />
+      <line x1="28" y1="${y - 20}" x2="892" y2="${y - 20}" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="${y}" r="4" fill="#4B5563" />
       <text x="58" y="${y + 5}" class="rowPlaceholder">waiting for next upstream contribution</text>
     `;
     }
     return `
-      <line x1="28" y1="${y - 22}" x2="892" y2="${y - 22}" stroke="#293241" stroke-width="1" />
+      <line x1="28" y1="${y - 20}" x2="892" y2="${y - 20}" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="${y}" r="5" fill="${stateColor(pr)}" />
       <text x="58" y="${y + 5}" class="rowRepo">${escapeXml(pr.repository.nameWithOwner)}</text>
       <text x="392" y="${y + 5}" class="rowTitle">${escapeXml(truncate(pr.title, 44))}</text>
@@ -265,7 +265,7 @@ const svg = `
   <text x="500" y="88" class="panelLabel">Public PR activity (last 6 months)</text>
   ${bars}
 
-  <rect x="28" y="214" width="864" height="118" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <rect x="28" y="214" width="864" height="142" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   ${
     featured
@@ -273,21 +273,21 @@ const svg = `
     <text x="44" y="270" class="repo">${escapeXml(featured.repository.nameWithOwner)}</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="${stateColor(featured)}" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="${stateColor(featured)}">STATUS: ${stateLabel(featured)}</text>
-    <text x="44" y="296" class="prTitle">${escapeXml(featuredTitleLines[0] ?? "")}</text>
-    <text x="44" y="322" class="prTitle">${escapeXml(featuredTitleLines[1] ?? "")}</text>
+    <text x="44" y="300" class="prTitle">${escapeXml(featuredTitleLines[0] ?? "")}</text>
+    <text x="44" y="330" class="prTitle">${escapeXml(featuredTitleLines[1] ?? "")}</text>
     <text x="44" y="238" class="hidden"></text>
-    <text x="600" y="296" class="panelMeta">PR #${featured.number}</text>
-    <text x="600" y="320" class="panelMeta">updated ${escapeXml(formatDate(featured.updatedAt))}</text>
-    <text x="740" y="296" class="panelMeta">created ${escapeXml(formatDate(featured.createdAt))}</text>
-    <text x="740" y="320" class="panelMeta">${escapeXml(formatRelativeDays(featured.updatedAt))}</text>
+    <text x="600" y="302" class="panelMeta">PR #${featured.number}</text>
+    <text x="600" y="328" class="panelMeta">updated ${escapeXml(formatDate(featured.updatedAt))}</text>
+    <text x="740" y="302" class="panelMeta">created ${escapeXml(formatDate(featured.createdAt))}</text>
+    <text x="740" y="328" class="panelMeta">${escapeXml(formatRelativeDays(featured.updatedAt))}</text>
   `
       : `
     <text x="44" y="224" class="prTitle">No public pull requests found yet.</text>
   `
   }
 
-  <rect x="28" y="356" width="864" height="114" rx="14" fill="#1D2430" stroke="#2F3B4C" />
-  <text x="44" y="384" class="panelLabel">Recent public pull requests</text>
+  <rect x="28" y="376" width="864" height="108" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <text x="44" y="404" class="panelLabel">Recent public pull requests</text>
   ${rows}
 
   <style>

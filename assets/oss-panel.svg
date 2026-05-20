@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-05-20 18:26 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-05-20 18:29 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -60,44 +60,44 @@
       <text x="816" y="80" text-anchor="middle" class="tiny">4</text>
     
 
-  <rect x="28" y="214" width="864" height="118" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <rect x="28" y="214" width="864" height="142" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
     <text x="44" y="270" class="repo">jenkinsci/jenkins</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="296" class="prTitle">Add shared editor search for code</text>
-    <text x="44" y="322" class="prTitle">editors</text>
+    <text x="44" y="300" class="prTitle">Add shared editor search for code</text>
+    <text x="44" y="330" class="prTitle">editors</text>
     <text x="44" y="238" class="hidden"></text>
-    <text x="600" y="296" class="panelMeta">PR #26789</text>
-    <text x="600" y="320" class="panelMeta">updated May 19, 2026</text>
-    <text x="740" y="296" class="panelMeta">created May 14, 2026</text>
-    <text x="740" y="320" class="panelMeta">1 day ago</text>
+    <text x="600" y="302" class="panelMeta">PR #26789</text>
+    <text x="600" y="328" class="panelMeta">updated May 19, 2026</text>
+    <text x="740" y="302" class="panelMeta">created May 14, 2026</text>
+    <text x="740" y="328" class="panelMeta">1 day ago</text>
   
 
-  <rect x="28" y="356" width="864" height="114" rx="14" fill="#1D2430" stroke="#2F3B4C" />
-  <text x="44" y="384" class="panelLabel">Recent public pull requests</text>
+  <rect x="28" y="376" width="864" height="108" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <text x="44" y="404" class="panelLabel">Recent public pull requests</text>
   
-      <line x1="28" y1="314" x2="892" y2="314" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="336" r="5" fill="#33B5E5" />
-      <text x="58" y="341" class="rowRepo">jenkinsci/jenkins</text>
-      <text x="392" y="341" class="rowTitle">Add shared editor search for code editors</text>
-      <text x="790" y="341" text-anchor="end" class="rowMeta">#26789</text>
-      <text x="876" y="341" text-anchor="end" class="rowMeta">1 day ago</text>
+      <line x1="28" y1="384" x2="892" y2="384" stroke="#293241" stroke-width="1" />
+      <circle cx="43" cy="404" r="5" fill="#33B5E5" />
+      <text x="58" y="409" class="rowRepo">jenkinsci/jenkins</text>
+      <text x="392" y="409" class="rowTitle">Add shared editor search for code editors</text>
+      <text x="790" y="409" text-anchor="end" class="rowMeta">#26789</text>
+      <text x="876" y="409" text-anchor="end" class="rowMeta">1 day ago</text>
     
-      <line x1="28" y1="356" x2="892" y2="356" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="378" r="5" fill="#F2495C" />
-      <text x="58" y="383" class="rowRepo">jenkinsci/jenkins</text>
-      <text x="392" y="383" class="rowTitle">Add shared editor search for code editors</text>
-      <text x="790" y="383" text-anchor="end" class="rowMeta">#26787</text>
-      <text x="876" y="383" text-anchor="end" class="rowMeta">5 days ago</text>
+      <line x1="28" y1="420" x2="892" y2="420" stroke="#293241" stroke-width="1" />
+      <circle cx="43" cy="440" r="5" fill="#F2495C" />
+      <text x="58" y="445" class="rowRepo">jenkinsci/jenkins</text>
+      <text x="392" y="445" class="rowTitle">Add shared editor search for code editors</text>
+      <text x="790" y="445" text-anchor="end" class="rowMeta">#26787</text>
+      <text x="876" y="445" text-anchor="end" class="rowMeta">5 days ago</text>
     
-      <line x1="28" y1="398" x2="892" y2="398" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="420" r="5" fill="#F2495C" />
-      <text x="58" y="425" class="rowRepo">jenkinsci/workflow-cps-plugin</text>
-      <text x="392" y="425" class="rowTitle">Enable Pipeline editor search shortcut</text>
-      <text x="790" y="425" text-anchor="end" class="rowMeta">#1779</text>
-      <text x="876" y="425" text-anchor="end" class="rowMeta">5 days ago</text>
+      <line x1="28" y1="456" x2="892" y2="456" stroke="#293241" stroke-width="1" />
+      <circle cx="43" cy="476" r="5" fill="#F2495C" />
+      <text x="58" y="481" class="rowRepo">jenkinsci/workflow-cps-plugin</text>
+      <text x="392" y="481" class="rowTitle">Enable Pipeline editor search shortcut</text>
+      <text x="790" y="481" text-anchor="end" class="rowMeta">#1779</text>
+      <text x="876" y="481" text-anchor="end" class="rowMeta">5 days ago</text>
     
 
   <style>
