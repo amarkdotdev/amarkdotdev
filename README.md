@@ -2,6 +2,10 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Visit-amark.dev-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=9be7f7)](https://amark.dev)
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=terraform+apply+✔️+%7C+0+errors%2C+0+warnings;kubectl+get+pods+--all-namespaces+%7C+grep+Running;git+push+origin+main+%7C+CI%2FCD+triggered+🚀;Automating+infrastructure%2C+one+commit+at+a+time;Cloud+Native+%7C+K8s+%7C+GitOps+%7C+IaC)](https://git.io/typing-svg)
 
 <br/>
