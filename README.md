@@ -53,9 +53,29 @@ available_for:
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarkdotdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4&ring_color=00b4d8)](https://github.com/amarkdotdev)
+### `$ current_focus`
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarkdotdev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8)](https://github.com/amarkdotdev)
+```yaml
+building:
+  - PatchPulse
+  - self-hosted Kubernetes risk analysis
+  - GitOps-friendly deployment safety checks
+
+interested_in:
+  - Platform Engineering
+  - DevOps / SRE roles
+  - Cloud infrastructure work
+```
+
+<div align="left">
+
+**Featured links**
+
+- [PatchPulse](https://github.com/amarkdotdev/patchpulse)
+- [amark.dev](https://amark.dev)
+- [LinkedIn](https://linkedin.com/in/amarkdotdev)
+
+</div>
 
 </td>
 </tr>
