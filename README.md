@@ -10,10 +10,6 @@
 
 <br/>
 
-[![PatchPulse](https://img.shields.io/badge/PatchPulse-K8s%20Risk%20Analysis-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00b4d8&labelColor=0d1117)](https://github.com/amarkdotdev/patchpulse)
-[![Jenkins PR](https://img.shields.io/badge/Jenkins-Open%20PR%20%2326789-0d1117?style=for-the-badge&logo=jenkins&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26789)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aharon%20Mark-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/)
-
 </div>
 
 ---
