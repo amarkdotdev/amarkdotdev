@@ -53,11 +53,34 @@ available_for:
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
+### Highlights
+
+<div align="left">
+
+- Open source work in the Jenkins ecosystem
+- Building [PatchPulse](https://github.com/amarkdotdev/patchpulse)
+- Focused on Kubernetes, GitOps, and platform engineering
+
+</div>
 
 </td>
 </tr>
 </table>
+
+---
+
+## `$ oss dashboard`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
+
+<br/>
+
+[![View Featured PR](https://img.shields.io/badge/View-Featured%20PR-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26789)
+[![All Public PRs](https://img.shields.io/badge/View-All%20Public%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr+author%3Aamarkdotdev+is%3Apublic)
+
+</div>
 
 ---
 
