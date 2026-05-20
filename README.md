@@ -53,21 +53,7 @@ available_for:
 
 <br/>
 
-### Open Source
-
-<div align="center">
-
-[![Jenkins PR](https://img.shields.io/badge/Jenkins%20PR-%2326789-0d1117?style=for-the-badge&logo=jenkins&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26789)
-
-[![PatchPulse](https://img.shields.io/badge/PatchPulse-Self--Hosted%20K8s%20Risk%20Analysis-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00b4d8&labelColor=0d1117)](https://github.com/amarkdotdev/patchpulse)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aharon%20Mark-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/)
-
-</div>
-
-<br/>
-
-<sub>Currently showcasing public OSS work in <a href="https://github.com/jenkinsci/jenkins/pull/26789">jenkinsci/jenkins</a>.</sub>
+<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
 
 </td>
 </tr>

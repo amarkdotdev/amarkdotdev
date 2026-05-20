@@ -1,0 +1,40 @@
+name: Update OSS Panel
+
+on:
+  schedule:
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-oss-panel.mjs"
+      - ".github/workflows/oss-panel.yml"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate OSS panel SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-oss-panel.mjs > assets/oss-panel.svg
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/oss-panel.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update OSS panel SVG"
+          git push
