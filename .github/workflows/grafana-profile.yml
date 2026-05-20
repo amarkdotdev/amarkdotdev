@@ -1,17 +1,7 @@
 name: Render Grafana Profile Panel
 
 on:
-  schedule:
-    - cron: "15 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "grafana/**"
-      - "scripts/render-grafana-profile.mjs"
-      - ".github/workflows/grafana-profile.yml"
-      - "README.md"
 
 jobs:
   render:
