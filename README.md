@@ -69,12 +69,18 @@ available_for:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
+<img width="96%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
 
 <br/>
 
 [![View Featured PR](https://img.shields.io/badge/View-Featured%20PR-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26789)
 [![All Public PRs](https://img.shields.io/badge/View-All%20Public%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr+author%3Aamarkdotdev+is%3Apublic)
+
+<br/>
+
+[![Jenkins Repo](https://img.shields.io/badge/Repo-jenkinsci%2Fjenkins-0d1117?style=flat-square&logo=jenkins&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins)
+[![workflow-cps-plugin](https://img.shields.io/badge/Repo-workflow--cps--plugin-0d1117?style=flat-square&logo=jenkins&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/workflow-cps-plugin)
+[![jenkinsci/cla](https://img.shields.io/badge/Repo-jenkinsci%2Fcla-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/cla)
 
 </div>
 
