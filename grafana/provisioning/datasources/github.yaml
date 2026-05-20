@@ -1,0 +1,11 @@
+apiVersion: 1
+
+datasources:
+  - name: GitHub
+    uid: github
+    type: grafana-github-datasource
+    access: proxy
+    jsonData:
+      selectedAuthType: personal-access-token
+    secureJsonData:
+      accessToken: ${GRAFANA_GITHUB_TOKEN}

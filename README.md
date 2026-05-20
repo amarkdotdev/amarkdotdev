@@ -53,29 +53,7 @@ available_for:
 
 <br/>
 
-### `$ current_focus`
-
-```yaml
-building:
-  - PatchPulse
-  - self-hosted Kubernetes risk analysis
-  - GitOps-friendly deployment safety checks
-
-interested_in:
-  - Platform Engineering
-  - DevOps / SRE roles
-  - Cloud infrastructure work
-```
-
-<div align="left">
-
-**Featured links**
-
-- [PatchPulse](https://github.com/amarkdotdev/patchpulse)
-- [amark.dev](https://amark.dev)
-- [LinkedIn](https://www.linkedin.com/in/aharonmark/)
-
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-contrib-grafana.png" alt="Grafana dashboard showing open source contributions" />
 
 </td>
 </tr>
