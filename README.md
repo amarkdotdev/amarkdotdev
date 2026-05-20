@@ -104,22 +104,35 @@ available_for:
 
 **☁️ Cloud & Infrastructure**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible&theme=dark" />
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="64" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" height="64" alt="Azure" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="64" alt="Google Cloud" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="64" alt="Terraform" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="64" alt="Ansible" /></a>
 
 **🐳 Containers & Orchestration**
 <br/>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux&theme=dark" />
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="64" alt="Kubernetes" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="64" alt="Docker" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="64" alt="Linux" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **🔁 CI/CD & GitOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,git&theme=dark" />
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="64" alt="GitHub Actions" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="64" alt="GitLab" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="64" alt="Jenkins" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="64" alt="Git" /></a>
 
 **💻 Languages & Scripting**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,bash,go,typescript,vim&theme=dark" />
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="64" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="64" alt="Bash" /></a>
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="64" alt="Go" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="64" alt="TypeScript" /></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim&theme=dark" height="64" alt="Vim" /></a>
 
 </td>
 </tr>
@@ -128,14 +141,20 @@ available_for:
 
 **📊 Observability**
 <br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kafka&theme=dark" />
+<a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="64" alt="Prometheus" /></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="64" alt="Grafana" /></a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="64" alt="Elasticsearch" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="64" alt="Kafka" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **🔐 Security & Secrets**
 <br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,nginx,redis,postgres&theme=dark" />
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="64" alt="Cloudflare" /></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="64" alt="NGINX" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="64" alt="Redis" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="64" alt="PostgreSQL" /></a>
 
 </td>
 </tr>
