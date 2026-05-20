@@ -170,9 +170,9 @@ const wrapText = (text, maxLen) => {
 };
 
 const featuredTitleLines = featured ? wrapText(featured.title, 34) : ["No public PRs found"];
-const recentRows = publicRecent.slice(0, 3);
+const recentRows = publicRecent.slice(0, 2);
 const visibleRows = [...recentRows];
-while (visibleRows.length < 3) {
+while (visibleRows.length < 2) {
   visibleRows.push(null);
 }
 
@@ -205,7 +205,7 @@ const bars = months
 
 const rows = visibleRows
   .map((pr, index) => {
-    const y = 404 + index * 36;
+    const y = 450 + index * 42;
     if (!pr) {
       return `
       <line x1="28" y1="${y - 20}" x2="892" y2="${y - 20}" stroke="#293241" stroke-width="1" />
@@ -227,7 +227,7 @@ const rows = visibleRows
 const refreshedAt = new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
 
 const svg = `
-<svg width="920" height="500" viewBox="0 0 920 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OSS contribution panel">
+<svg width="920" height="560" viewBox="0 0 920 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OSS contribution panel">
   <defs>
     <linearGradient id="topline" x1="20" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#33B5E5" />
@@ -242,9 +242,9 @@ const svg = `
     </filter>
   </defs>
 
-  <rect x="0" y="0" width="920" height="500" rx="18" fill="#111217" />
+  <rect x="0" y="0" width="920" height="560" rx="18" fill="#111217" />
   <rect x="0" y="0" width="920" height="4" rx="4" fill="url(#topline)" />
-  <rect x="14" y="14" width="892" height="472" rx="16" fill="#161A22" stroke="#2A3441" />
+  <rect x="14" y="14" width="892" height="532" rx="16" fill="#161A22" stroke="#2A3441" />
 
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
@@ -265,7 +265,7 @@ const svg = `
   <text x="500" y="88" class="panelLabel">Public PR activity (last 6 months)</text>
   ${bars}
 
-  <rect x="28" y="214" width="864" height="142" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <rect x="28" y="214" width="864" height="164" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   ${
     featured
@@ -273,21 +273,21 @@ const svg = `
     <text x="44" y="270" class="repo">${escapeXml(featured.repository.nameWithOwner)}</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="${stateColor(featured)}" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="${stateColor(featured)}">STATUS: ${stateLabel(featured)}</text>
-    <text x="44" y="300" class="prTitle">${escapeXml(featuredTitleLines[0] ?? "")}</text>
-    <text x="44" y="330" class="prTitle">${escapeXml(featuredTitleLines[1] ?? "")}</text>
+    <text x="44" y="302" class="prTitle">${escapeXml(featuredTitleLines[0] ?? "")}</text>
+    <text x="44" y="336" class="prTitle">${escapeXml(featuredTitleLines[1] ?? "")}</text>
     <text x="44" y="238" class="hidden"></text>
-    <text x="600" y="302" class="panelMeta">PR #${featured.number}</text>
-    <text x="600" y="328" class="panelMeta">updated ${escapeXml(formatDate(featured.updatedAt))}</text>
-    <text x="740" y="302" class="panelMeta">created ${escapeXml(formatDate(featured.createdAt))}</text>
-    <text x="740" y="328" class="panelMeta">${escapeXml(formatRelativeDays(featured.updatedAt))}</text>
+    <text x="600" y="306" class="panelMeta">PR #${featured.number}</text>
+    <text x="600" y="334" class="panelMeta">updated ${escapeXml(formatDate(featured.updatedAt))}</text>
+    <text x="740" y="306" class="panelMeta">created ${escapeXml(formatDate(featured.createdAt))}</text>
+    <text x="740" y="334" class="panelMeta">${escapeXml(formatRelativeDays(featured.updatedAt))}</text>
   `
       : `
     <text x="44" y="224" class="prTitle">No public pull requests found yet.</text>
   `
   }
 
-  <rect x="28" y="376" width="864" height="108" rx="14" fill="#1D2430" stroke="#2F3B4C" />
-  <text x="44" y="404" class="panelLabel">Recent public pull requests</text>
+  <rect x="28" y="402" width="864" height="120" rx="14" fill="#1D2430" stroke="#2F3B4C" />
+  <text x="44" y="430" class="panelLabel">Recent public pull requests</text>
   ${rows}
 
   <style>

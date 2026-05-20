@@ -69,7 +69,7 @@ available_for:
 
 <div align="center">
 
-<img width="96%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg" alt="Grafana-style OSS contribution panel" />
+<img width="96%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg?v=20260520c" alt="Grafana-style OSS contribution panel" />
 
 <br/>
 
