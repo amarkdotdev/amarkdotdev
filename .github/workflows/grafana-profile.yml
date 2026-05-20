@@ -56,11 +56,14 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install Playwright package
+        run: npm install --no-save playwright@1.54.2
+
       - name: Install Playwright browser
-        run: npx -y playwright@1.54.2 install --with-deps chromium
+        run: npx playwright install --with-deps chromium
 
       - name: Render dashboard screenshot
-        run: npx -y -p playwright@1.54.2 node scripts/render-grafana-profile.mjs
+        run: node scripts/render-grafana-profile.mjs
 
       - name: Stop Grafana
         if: always()
