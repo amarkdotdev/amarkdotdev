@@ -3,12 +3,24 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Visit-amark.dev-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=9be7f7)](https://amark.dev)
+[![PatchPulse](https://img.shields.io/badge/PatchPulse-K8s%20Risk%20Analysis-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00b4d8&labelColor=0d1117)](https://github.com/amarkdotdev/patchpulse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aharon%20Mark-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/)
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=terraform+apply+✔️+%7C+0+errors%2C+0+warnings;kubectl+get+pods+--all-namespaces+%7C+grep+Running;git+push+origin+main+%7C+CI%2FCD+triggered+🚀;Automating+infrastructure%2C+one+commit+at+a+time;Cloud+Native+%7C+K8s+%7C+GitOps+%7C+IaC)](https://git.io/typing-svg)
 
 <br/>
+
+</div>
+
+---
+
+## `$ render orbital-control-plane`
+
+<div align="center">
+
+<img width="98%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/orbital-topology.svg" alt="Orbital control plane map" />
 
 </div>
 
@@ -27,21 +39,21 @@ role:       DevOps / Platform Engineer
 website:    https://amark.dev
 
 expertise:
-  - Kubernetes & container orchestration
-  - Infrastructure as Code (Terraform)
-  - CI/CD pipelines & GitOps (ArgoCD)
-  - Multi-cloud: AWS · Azure · GCP
-  - Observability & SRE practices
+  - Kubernetes platforms & container operations
+  - Infrastructure as Code with Terraform
+  - CI/CD and GitOps delivery systems
+  - Multi-cloud infrastructure across AWS, Azure, GCP
+  - Observability, reliability, and incident reduction
 
 currently_hacking_on:
-  - eBPF-based network observability
-  - Platform Engineering with Backstage
-  - AI-driven Ops automation
+  - upstream Jenkins contributions
+  - PatchPulse for Kubernetes risk analysis
+  - platform tooling that removes manual toil
 
 available_for:
-  - Consulting & architecture reviews
-  - Open source collaboration
-  - Technical talks & mentoring
+  - platform engineering and DevOps roles
+  - OSS collaboration
+  - architecture reviews and systems design
 ```
 
 </td>
@@ -49,13 +61,22 @@ available_for:
 
 <br/>
 
-### Highlights
+### `$ mission.log`
 
 <div align="left">
 
-- Open source work in the Jenkins ecosystem
-- Building [PatchPulse](https://github.com/amarkdotdev/patchpulse)
-- Focused on Kubernetes, GitOps, and platform engineering
+- Building systems that make shipping calmer and safer
+- Active in the Jenkins ecosystem with live upstream PRs
+- Strongest when the work touches Kubernetes, CI/CD, GitOps, and observability
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Featured PR](https://img.shields.io/badge/Featured%20PR-Jenkins%20%2326789-0d1117?style=for-the-badge&logo=jenkins&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26789)
+[![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
 </div>
 
@@ -69,7 +90,7 @@ available_for:
 
 <div align="center">
 
-<img width="96%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel.svg?v=20260520c" alt="Grafana-style OSS contribution panel" />
+<img width="96%" src="https://raw.githubusercontent.com/amarkdotdev/amarkdotdev/main/assets/oss-panel-v2.svg" alt="Grafana-style OSS contribution panel" />
 
 <br/>
 
@@ -86,7 +107,7 @@ available_for:
 
 ---
 
-## `$ cat /etc/social`
+## `$ dock --with people`
 
 <div align="center">
 
@@ -180,14 +201,6 @@ available_for:
 
 ---
 
-## `$ kubectl top trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarkdotdev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
 ## `$ watch -n86400 snake --eat-contributions`
 
 <div align="center">
@@ -202,37 +215,12 @@ available_for:
 
 ---
 
-## `$ watch -n1 git activity`
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarkdotdev&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ff6b6b&area=true&area_color=00b4d8&hide_border=true" />
-</div>
-
----
-
-## `$ cat /etc/motd`
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  "Automate the pain away.                                        ║
-║   If you did it twice — script it.                               ║
-║   If you scripted it twice — orchestrate it.                     ║
-║   If you orchestrated it twice — open source it."               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-> [!IMPORTANT]
-> **Recruiter or collaborator?**
->
-> [📄 Download CV](https://amark.dev/cv) &nbsp;·&nbsp; [🌐 amark.dev](https://amark.dev) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/aharonmark/)
+[![Resume](https://img.shields.io/badge/Resume-amark.dev%2Fcv-00b4d8?style=for-the-badge&logo=readthedocs&logoColor=0d1117&labelColor=9be7f7)](https://amark.dev/cv)
+[![Website](https://img.shields.io/badge/Website-amark.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=0d1117)](https://amark.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aharonmark-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/)
+[![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
 </div>
 
