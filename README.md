@@ -217,7 +217,6 @@ available_for:
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-amark.dev%2Fcv-00b4d8?style=for-the-badge&logo=readthedocs&logoColor=0d1117&labelColor=9be7f7)](https://amark.dev/cv)
 [![Website](https://img.shields.io/badge/Website-amark.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=0d1117)](https://amark.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aharonmark-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117)](https://www.linkedin.com/in/aharonmark/)
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
