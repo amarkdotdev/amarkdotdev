@@ -28,13 +28,13 @@ jobs:
       - name: Generate OSS panel SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/generate-oss-panel.mjs > assets/oss-panel-v2.svg
+        run: node scripts/generate-oss-panel.mjs
 
-      - name: Commit updated SVG
+      - name: Commit updated OSS panel assets
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/oss-panel-v2.svg
+          git add assets/oss-panel-v2.svg README.md
           git diff --cached --quiet && exit 0
-          git commit -m "Update OSS panel SVG"
+          git commit -m "Update OSS panel assets"
           git push
