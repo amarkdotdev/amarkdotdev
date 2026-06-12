@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-12 15:43 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-12 20:29 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -71,7 +71,7 @@
     <text x="590" y="308" class="panelMeta">PR #139650</text>
     <text x="590" y="338" class="panelMeta">updated Jun 11, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jun 11, 2026</text>
-    <text x="730" y="338" class="panelMeta">today</text>
+    <text x="730" y="338" class="panelMeta">1 day ago</text>
   
 
   <rect x="28" y="408" width="864" height="154" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -82,14 +82,14 @@
       <text x="58" y="455" class="rowRepo">kubernetes/kubernetes</text>
       <text x="352" y="455" class="rowTitle">test: move autoscaling resource-consumer ...</text>
       <text x="790" y="455" text-anchor="end" class="rowMeta">#139650</text>
-      <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
+      <text x="876" y="455" text-anchor="end" class="rowMeta">1 day ago</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
       <text x="58" y="491" class="rowRepo">apple/container</text>
       <text x="352" y="491" class="rowTitle">Show plugin settings in system property l...</text>
       <text x="790" y="491" text-anchor="end" class="rowMeta">#1696</text>
-      <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
+      <text x="876" y="491" text-anchor="end" class="rowMeta">1 day ago</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#F2495C" />
@@ -103,7 +103,7 @@
       <text x="58" y="563" class="rowRepo">jenkinsci/jenkins</text>
       <text x="352" y="563" class="rowTitle">Add shared editor search for code editors</text>
       <text x="790" y="563" text-anchor="end" class="rowMeta">#26787</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">28 days ago</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">29 days ago</text>
     
 
   <style>
