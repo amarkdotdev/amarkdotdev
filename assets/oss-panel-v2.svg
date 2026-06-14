@@ -20,11 +20,11 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-13 19:57 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-14 05:12 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">3</text>
+  <text x="44" y="125" class="bigValue">7</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -35,9 +35,9 @@
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="500" y="88" class="panelLabel">Public OSS activity (last 6 months)</text>
   
-      <rect x="544" y="134" width="24" height="16" rx="6" fill="#33B5E5" opacity="0.88" />
+      <rect x="544" y="142" width="24" height="8" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="556" y="172" text-anchor="middle" class="axis">Jan</text>
-      <text x="556" y="126" text-anchor="middle" class="tiny">1</text>
+      <text x="556" y="134" text-anchor="middle" class="tiny">1</text>
     
       <rect x="596" y="150" width="24" height="0" rx="6" fill="#33B5E5" opacity="0.22" />
       <text x="608" y="172" text-anchor="middle" class="axis">Feb</text>
@@ -51,26 +51,26 @@
       <text x="712" y="172" text-anchor="middle" class="axis">Apr</text>
       <text x="712" y="142" text-anchor="middle" class="tiny">0</text>
     
-      <rect x="752" y="103" width="24" height="47" rx="6" fill="#33B5E5" opacity="0.88" />
+      <rect x="752" y="127" width="24" height="23" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="764" y="172" text-anchor="middle" class="axis">May</text>
-      <text x="764" y="95" text-anchor="middle" class="tiny">3</text>
+      <text x="764" y="119" text-anchor="middle" class="tiny">3</text>
     
       <rect x="804" y="88" width="24" height="62" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="816" y="172" text-anchor="middle" class="axis">Jun</text>
-      <text x="816" y="80" text-anchor="middle" class="tiny">4</text>
+      <text x="816" y="80" text-anchor="middle" class="tiny">8</text>
     
 
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">docker/buildx</text>
+    <text x="44" y="270" class="repo">grafana/loki</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">bake: reject targets inside target</text>
-    <text x="44" y="338" class="prTitle">blocks</text>
-    <text x="590" y="308" class="panelMeta">PR #3906</text>
-    <text x="590" y="338" class="panelMeta">updated Jun 13, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jun 13, 2026</text>
+    <text x="44" y="304" class="prTitle">Clarify lokitool rules format and</text>
+    <text x="44" y="338" class="prTitle">check wording</text>
+    <text x="590" y="308" class="panelMeta">PR #22410</text>
+    <text x="590" y="338" class="panelMeta">updated Jun 14, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 14, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
 
@@ -79,31 +79,31 @@
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">docker/buildx</text>
-      <text x="352" y="455" class="rowTitle">bake: reject targets inside target blocks</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#3906</text>
+      <text x="58" y="455" class="rowRepo">grafana/loki</text>
+      <text x="352" y="455" class="rowTitle">Clarify lokitool rules format and check w...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#22410</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
       <text x="58" y="491" class="rowRepo">apple/container</text>
-      <text x="352" y="491" class="rowTitle">Show plugin settings in system property l...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#1696</text>
+      <text x="352" y="491" class="rowTitle">Show disk usage in image list</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#1720</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">kubernetes/kubernetes</text>
-      <text x="352" y="527" class="rowTitle">test: move autoscaling resource-consumer ...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#139650</text>
+      <text x="58" y="527" class="rowRepo">grafana/grafana</text>
+      <text x="352" y="527" class="rowTitle">Add a JavaScript-disabled fallback to the...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#126468</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="558" r="5" fill="#F2495C" />
-      <text x="58" y="563" class="rowRepo">jenkinsci/jenkins</text>
-      <text x="352" y="563" class="rowTitle">Enable native CodeMirror search</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#26789</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">12 days ago</text>
+      <circle cx="43" cy="558" r="5" fill="#33B5E5" />
+      <text x="58" y="563" class="rowRepo">jfrog/jfrog-cli</text>
+      <text x="352" y="563" class="rowTitle">Fix npm installer hanging after CLI downl...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#3541</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
   <style>
