@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-tektoncd%2Fpipeline%20%2310274-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline/pull/10274)
+[![Featured Contribution](https://img.shields.io/badge/Featured-apple%2Fcontainer%20%231696-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/container/pull/1696)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline/pull/10274)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/container/pull/1696)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo tektoncd/pipeline](https://img.shields.io/badge/Repo-tektoncd%2Fpipeline-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline)
-[![Repo cilium/cilium](https://img.shields.io/badge/Repo-cilium%2Fcilium-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/cilium)
 [![Repo apple/container](https://img.shields.io/badge/Repo-apple%2Fcontainer-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/container)
-[![Repo kubernetes/kubernetes](https://img.shields.io/badge/Repo-kubernetes%2Fkubernetes-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes/kubernetes)
+[![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
+[![Repo helm/helm](https://img.shields.io/badge/Repo-helm%2Fhelm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm)
+[![Repo jfrog/jfrog-cli](https://img.shields.io/badge/Repo-jfrog%2Fjfrog-cli-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jfrog/jfrog-cli)
 <!-- oss-dynamic-links:end -->
 
 </div>
