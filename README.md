@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-argoproj%2Fargo-workflows%20%2316273-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows/pull/16273)
+[![Featured Contribution](https://img.shields.io/badge/Featured-jenkinsci%2Fjenkins%20%2326937-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26937)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows/pull/16273)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins/pull/26937)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo argoproj/argo-workflows](https://img.shields.io/badge/Repo-argoproj%2Fargo-workflows-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows)
+[![Repo jenkinsci/jenkins](https://img.shields.io/badge/Repo-jenkinsci%2Fjenkins-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/jenkins)
 [![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
+[![Repo google/go-containerregistry](https://img.shields.io/badge/Repo-google%2Fgo-containerregistry-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/google/go-containerregistry)
 [![Repo apple/container](https://img.shields.io/badge/Repo-apple%2Fcontainer-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/container)
-[![Repo helm/helm](https://img.shields.io/badge/Repo-helm%2Fhelm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm)
 <!-- oss-dynamic-links:end -->
 
 </div>
