@@ -20,16 +20,16 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-18 20:40 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-19 05:28 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">13</text>
+  <text x="44" y="125" class="bigValue">12</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="272" y="88" class="panelLabel">Merged OSS PRs</text>
-  <text x="272" y="125" class="bigValue">1</text>
+  <text x="272" y="125" class="bigValue">2</text>
   <text x="272" y="138" class="panelMeta">merged in external public repos</text>
 
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -63,14 +63,14 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">argoproj/argo-cd</text>
+    <text x="44" y="270" class="repo">jenkinsci/jenkins</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">fix: support bearer token auth on</text>
-    <text x="44" y="338" class="prTitle">terminal websocket endpoint</text>
-    <text x="590" y="308" class="panelMeta">PR #28285</text>
-    <text x="590" y="338" class="panelMeta">updated Jun 18, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jun 15, 2026</text>
+    <text x="44" y="304" class="prTitle">fix(ui): re-enable Add button when</text>
+    <text x="44" y="338" class="prTitle">hetero-list item is deleted</text>
+    <text x="590" y="308" class="panelMeta">PR #26937</text>
+    <text x="590" y="338" class="panelMeta">updated Jun 19, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 16, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
 
@@ -79,30 +79,30 @@
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">argoproj/argo-cd</text>
-      <text x="352" y="455" class="rowTitle">fix: support bearer token auth on termina...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#28285</text>
+      <text x="58" y="455" class="rowRepo">jenkinsci/jenkins</text>
+      <text x="352" y="455" class="rowTitle">fix(ui): re-enable Add button when hetero...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#26937</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">docker/cli</text>
-      <text x="352" y="491" class="rowTitle">fix: default to unix scheme when DOCKER_H...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#7060</text>
+      <circle cx="43" cy="486" r="5" fill="#73BF69" />
+      <text x="58" y="491" class="rowRepo">open-telemetry/opentelemetry-collector-contrib</text>
+      <text x="352" y="491" class="rowTitle">[processor/geoip] Add error_mode configur...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#49056</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">containerd/nerdctl</text>
-      <text x="352" y="527" class="rowTitle">feat: show RootlessKit version in nerdctl...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#4971</text>
+      <text x="58" y="527" class="rowRepo">argoproj/argo-cd</text>
+      <text x="352" y="527" class="rowTitle">fix: support bearer token auth on termina...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#28285</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
       <text x="58" y="563" class="rowRepo">docker/cli</text>
-      <text x="352" y="563" class="rowTitle">fix: use HumanSize for image list to avoi...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#7059</text>
+      <text x="352" y="563" class="rowTitle">fix: default to unix scheme when DOCKER_H...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#7060</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
