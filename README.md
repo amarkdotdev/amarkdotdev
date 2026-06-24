@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-opensearch-project%2FOpenSearch-Dashboards%20%2312262-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards/pull/12262)
+[![Featured Contribution](https://img.shields.io/badge/Featured-openssl%2Fopenssl%20%2331712-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/openssl/openssl/pull/31712)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards/pull/12262)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/openssl/openssl/pull/31712)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo fluxcd/notification-controller](https://img.shields.io/badge/Repo-fluxcd%2Fnotification-controller-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/notification-controller)
-[![Repo opensearch-project/OpenSearch-Dashboards](https://img.shields.io/badge/Repo-opensearch-project%2FOpenSearch-Dashboards-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards)
-[![Repo velero-io/velero](https://img.shields.io/badge/Repo-velero-io%2Fvelero-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/velero-io/velero)
-[![Repo prometheus-operator/prometheus-operator](https://img.shields.io/badge/Repo-prometheus-operator%2Fprometheus-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/prometheus-operator/prometheus-operator)
+[![Repo openssl/openssl](https://img.shields.io/badge/Repo-openssl%2Fopenssl-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/openssl/openssl)
+[![Repo google/go-containerregistry](https://img.shields.io/badge/Repo-google%2Fgo-containerregistry-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/google/go-containerregistry)
+[![Repo kedacore/keda](https://img.shields.io/badge/Repo-kedacore%2Fkeda-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kedacore/keda)
+[![Repo cert-manager/cert-manager](https://img.shields.io/badge/Repo-cert-manager%2Fcert-manager-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cert-manager/cert-manager)
 <!-- oss-dynamic-links:end -->
 
 </div>
