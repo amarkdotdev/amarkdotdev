@@ -20,11 +20,11 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-30 14:46 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-06-30 20:23 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">28</text>
+  <text x="44" y="125" class="bigValue">27</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -63,22 +63,22 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">openssl/openssl</text>
+    <text x="44" y="270" class="repo">velero-io/velero</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">siv128: return 1 on success and 0 on</text>
-    <text x="44" y="338" class="prTitle">failure from ossl_siv128_finish</text>
-    <text x="590" y="308" class="panelMeta">PR #31712</text>
-    <text x="590" y="338" class="panelMeta">updated Jun 30, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jun 24, 2026</text>
-    <text x="730" y="338" class="panelMeta">today</text>
+    <text x="44" y="304" class="prTitle">feat(metrics): expose</text>
+    <text x="44" y="338" class="prTitle">velero_build_info gauge</text>
+    <text x="590" y="308" class="panelMeta">PR #9934</text>
+    <text x="590" y="338" class="panelMeta">updated Jun 29, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 23, 2026</text>
+    <text x="730" y="338" class="panelMeta">1 day ago</text>
   
 
   <rect x="28" y="408" width="864" height="154" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
+      <circle cx="43" cy="450" r="5" fill="#F2495C" />
       <text x="58" y="455" class="rowRepo">openssl/openssl</text>
       <text x="352" y="455" class="rowTitle">siv128: return 1 on success and 0 on fail...</text>
       <text x="790" y="455" text-anchor="end" class="rowMeta">#31712</text>
