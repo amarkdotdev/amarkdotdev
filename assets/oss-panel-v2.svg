@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-01 15:15 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-01 20:18 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -96,7 +96,7 @@
       <text x="58" y="527" class="rowRepo">openssl/openssl</text>
       <text x="352" y="527" class="rowTitle">siv128: return 1 on success and 0 on fail...</text>
       <text x="790" y="527" text-anchor="end" class="rowMeta">#31712</text>
-      <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
+      <text x="876" y="527" text-anchor="end" class="rowMeta">1 day ago</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
