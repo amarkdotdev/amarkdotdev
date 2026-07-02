@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-02 04:33 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-02 09:38 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -53,11 +53,11 @@
     
       <rect x="752" y="88" width="24" height="62" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="764" y="172" text-anchor="middle" class="axis">Jun</text>
-      <text x="764" y="80" text-anchor="middle" class="tiny">48</text>
+      <text x="764" y="80" text-anchor="middle" class="tiny">47</text>
     
-      <rect x="804" y="147" width="24" height="3" rx="6" fill="#33B5E5" opacity="0.88" />
+      <rect x="804" y="146" width="24" height="4" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="816" y="172" text-anchor="middle" class="axis">Jul</text>
-      <text x="816" y="139" text-anchor="middle" class="tiny">2</text>
+      <text x="816" y="138" text-anchor="middle" class="tiny">3</text>
     
 
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -69,7 +69,7 @@
     <text x="44" y="304" class="prTitle">fix(akeyless): surface the real API</text>
     <text x="44" y="338" class="prTitle">error from DescribeItem</text>
     <text x="590" y="308" class="panelMeta">PR #6587</text>
-    <text x="590" y="338" class="panelMeta">updated Jul 1, 2026</text>
+    <text x="590" y="338" class="panelMeta">updated Jul 2, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jul 1, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
@@ -86,24 +86,24 @@
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">traefik/traefik</text>
-      <text x="352" y="491" class="rowTitle">doc: clarify resource name normalization ...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#13447</text>
+      <text x="58" y="491" class="rowRepo">coredns/coredns</text>
+      <text x="352" y="491" class="rowTitle">plugin/forward: make per-upstream read ti...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#8205</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="522" r="5" fill="#F2495C" />
-      <text x="58" y="527" class="rowRepo">openssl/openssl</text>
-      <text x="352" y="527" class="rowTitle">siv128: return 1 on success and 0 on fail...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#31712</text>
-      <text x="876" y="527" text-anchor="end" class="rowMeta">1 day ago</text>
+      <circle cx="43" cy="522" r="5" fill="#33B5E5" />
+      <text x="58" y="527" class="rowRepo">traefik/traefik</text>
+      <text x="352" y="527" class="rowTitle">doc: clarify resource name normalization ...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#13447</text>
+      <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">velero-io/velero</text>
-      <text x="352" y="563" class="rowTitle">feat(metrics): expose velero_build_info g...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#9934</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">2 days ago</text>
+      <circle cx="43" cy="558" r="5" fill="#F2495C" />
+      <text x="58" y="563" class="rowRepo">openssl/openssl</text>
+      <text x="352" y="563" class="rowTitle">siv128: return 1 on success and 0 on fail...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#31712</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">1 day ago</text>
     
 
   <style>
