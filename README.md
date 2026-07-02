@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-external-secrets%2Fexternal-secrets%20%236587-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/external-secrets/external-secrets/pull/6587)
+[![Featured Contribution](https://img.shields.io/badge/Featured-traefik%2Ftraefik%20%2313447-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik/pull/13447)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/external-secrets/external-secrets/pull/6587)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik/pull/13447)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo external-secrets/external-secrets](https://img.shields.io/badge/Repo-external-secrets%2Fexternal-secrets-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/external-secrets/external-secrets)
-[![Repo coredns/coredns](https://img.shields.io/badge/Repo-coredns%2Fcoredns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/coredns/coredns)
 [![Repo traefik/traefik](https://img.shields.io/badge/Repo-traefik%2Ftraefik-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik)
-[![Repo openssl/openssl](https://img.shields.io/badge/Repo-openssl%2Fopenssl-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/openssl/openssl)
+[![Repo docker/buildx](https://img.shields.io/badge/Repo-docker%2Fbuildx-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/docker/buildx)
+[![Repo external-secrets/external-secrets](https://img.shields.io/badge/Repo-external-secrets%2Fexternal-secrets-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/external-secrets/external-secrets)
+[![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
 <!-- oss-dynamic-links:end -->
 
 </div>
