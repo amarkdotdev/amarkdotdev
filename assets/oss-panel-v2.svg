@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-04 09:02 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-04 14:03 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -71,7 +71,7 @@
     <text x="590" y="308" class="panelMeta">PR #13447</text>
     <text x="590" y="338" class="panelMeta">updated Jul 2, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jul 1, 2026</text>
-    <text x="730" y="338" class="panelMeta">1 day ago</text>
+    <text x="730" y="338" class="panelMeta">2 days ago</text>
   
 
   <rect x="28" y="408" width="864" height="154" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -82,28 +82,28 @@
       <text x="58" y="455" class="rowRepo">traefik/traefik</text>
       <text x="352" y="455" class="rowTitle">doc: clarify resource name normalization ...</text>
       <text x="790" y="455" text-anchor="end" class="rowMeta">#13447</text>
-      <text x="876" y="455" text-anchor="end" class="rowMeta">1 day ago</text>
+      <text x="876" y="455" text-anchor="end" class="rowMeta">2 days ago</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
       <text x="58" y="491" class="rowRepo">docker/buildx</text>
       <text x="352" y="491" class="rowTitle">bake: reject targets inside target blocks</text>
       <text x="790" y="491" text-anchor="end" class="rowMeta">#3906</text>
-      <text x="876" y="491" text-anchor="end" class="rowMeta">1 day ago</text>
+      <text x="876" y="491" text-anchor="end" class="rowMeta">2 days ago</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#F2495C" />
       <text x="58" y="527" class="rowRepo">external-secrets/external-secrets</text>
       <text x="352" y="527" class="rowTitle">fix(akeyless): surface the real API error...</text>
       <text x="790" y="527" text-anchor="end" class="rowMeta">#6587</text>
-      <text x="876" y="527" text-anchor="end" class="rowMeta">1 day ago</text>
+      <text x="876" y="527" text-anchor="end" class="rowMeta">2 days ago</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
       <text x="58" y="563" class="rowRepo">NVIDIA/gpu-operator</text>
       <text x="352" y="563" class="rowTitle">feat: make ServiceMonitor API group confi...</text>
       <text x="790" y="563" text-anchor="end" class="rowMeta">#2574</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">1 day ago</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">2 days ago</text>
     
 
   <style>
