@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-05 14:12 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-05 19:46 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -53,23 +53,23 @@
     
       <rect x="752" y="88" width="24" height="62" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="764" y="172" text-anchor="middle" class="axis">Jun</text>
-      <text x="764" y="80" text-anchor="middle" class="tiny">43</text>
+      <text x="764" y="80" text-anchor="middle" class="tiny">34</text>
     
-      <rect x="804" y="140" width="24" height="10" rx="6" fill="#33B5E5" opacity="0.88" />
+      <rect x="804" y="121" width="24" height="29" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="816" y="172" text-anchor="middle" class="axis">Jul</text>
-      <text x="816" y="132" text-anchor="middle" class="tiny">7</text>
+      <text x="816" y="113" text-anchor="middle" class="tiny">16</text>
     
 
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">argoproj/argo-cd</text>
+    <text x="44" y="270" class="repo">helm/helm</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">fix: support bearer token auth on</text>
-    <text x="44" y="338" class="prTitle">terminal websocket endpoint</text>
-    <text x="590" y="308" class="panelMeta">PR #28285</text>
-    <text x="590" y="338" class="panelMeta">updated Jul 4, 2026</text>
+    <text x="44" y="304" class="prTitle">fix: suppress registry pull messages</text>
+    <text x="44" y="338" class="prTitle">from template and show output</text>
+    <text x="590" y="308" class="panelMeta">PR #32217</text>
+    <text x="590" y="338" class="panelMeta">updated Jul 5, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jun 15, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
@@ -78,32 +78,32 @@
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#73BF69" />
-      <text x="58" y="455" class="rowRepo">coredns/coredns</text>
-      <text x="352" y="455" class="rowTitle">plugin/forward: make per-upstream read ti...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#8205</text>
+      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
+      <text x="58" y="455" class="rowRepo">helm/helm</text>
+      <text x="352" y="455" class="rowTitle">fix: suppress registry pull messages from...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#32217</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">argoproj/argo-cd</text>
-      <text x="352" y="491" class="rowTitle">fix: support bearer token auth on termina...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#28285</text>
+      <text x="58" y="491" class="rowRepo">aquasecurity/trivy</text>
+      <text x="352" y="491" class="rowTitle">feat: add --no-color flag to disable colo...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#10880</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">traefik/traefik</text>
-      <text x="352" y="527" class="rowTitle">doc: clarify resource name normalization ...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#13447</text>
-      <text x="876" y="527" text-anchor="end" class="rowMeta">3 days ago</text>
+      <text x="58" y="527" class="rowRepo">open-policy-agent/gatekeeper</text>
+      <text x="352" y="527" class="rowTitle">feat(constraints): scope excludedNamespac...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#4637</text>
+      <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">docker/buildx</text>
-      <text x="352" y="563" class="rowTitle">bake: reject targets inside target blocks</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#3906</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">3 days ago</text>
+      <text x="58" y="563" class="rowRepo">kyverno/kyverno</text>
+      <text x="352" y="563" class="rowTitle">fix(ivpol): add debug logging for CEL ima...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#16305</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
   <style>
