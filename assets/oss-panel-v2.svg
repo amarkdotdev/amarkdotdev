@@ -20,16 +20,16 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-04 19:40 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-05 04:35 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">28</text>
+  <text x="44" y="125" class="bigValue">27</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="272" y="88" class="panelLabel">Merged OSS PRs</text>
-  <text x="272" y="125" class="bigValue">6</text>
+  <text x="272" y="125" class="bigValue">7</text>
   <text x="272" y="138" class="panelMeta">merged in external public repos</text>
 
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -53,56 +53,56 @@
     
       <rect x="752" y="88" width="24" height="62" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="764" y="172" text-anchor="middle" class="axis">Jun</text>
-      <text x="764" y="80" text-anchor="middle" class="tiny">44</text>
+      <text x="764" y="80" text-anchor="middle" class="tiny">43</text>
     
-      <rect x="804" y="142" width="24" height="8" rx="6" fill="#33B5E5" opacity="0.88" />
+      <rect x="804" y="140" width="24" height="10" rx="6" fill="#33B5E5" opacity="0.88" />
       <text x="816" y="172" text-anchor="middle" class="axis">Jul</text>
-      <text x="816" y="134" text-anchor="middle" class="tiny">6</text>
+      <text x="816" y="132" text-anchor="middle" class="tiny">7</text>
     
 
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">traefik/traefik</text>
+    <text x="44" y="270" class="repo">argoproj/argo-cd</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">doc: clarify resource name</text>
-    <text x="44" y="338" class="prTitle">normalization for cross-provider...</text>
-    <text x="590" y="308" class="panelMeta">PR #13447</text>
-    <text x="590" y="338" class="panelMeta">updated Jul 2, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jul 1, 2026</text>
-    <text x="730" y="338" class="panelMeta">2 days ago</text>
+    <text x="44" y="304" class="prTitle">fix: support bearer token auth on</text>
+    <text x="44" y="338" class="prTitle">terminal websocket endpoint</text>
+    <text x="590" y="308" class="panelMeta">PR #28285</text>
+    <text x="590" y="338" class="panelMeta">updated Jul 4, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 15, 2026</text>
+    <text x="730" y="338" class="panelMeta">today</text>
   
 
   <rect x="28" y="408" width="864" height="154" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">traefik/traefik</text>
-      <text x="352" y="455" class="rowTitle">doc: clarify resource name normalization ...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#13447</text>
-      <text x="876" y="455" text-anchor="end" class="rowMeta">2 days ago</text>
+      <circle cx="43" cy="450" r="5" fill="#73BF69" />
+      <text x="58" y="455" class="rowRepo">coredns/coredns</text>
+      <text x="352" y="455" class="rowTitle">plugin/forward: make per-upstream read ti...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#8205</text>
+      <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">docker/buildx</text>
-      <text x="352" y="491" class="rowTitle">bake: reject targets inside target blocks</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#3906</text>
-      <text x="876" y="491" text-anchor="end" class="rowMeta">2 days ago</text>
+      <text x="58" y="491" class="rowRepo">argoproj/argo-cd</text>
+      <text x="352" y="491" class="rowTitle">fix: support bearer token auth on termina...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#28285</text>
+      <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="522" r="5" fill="#F2495C" />
-      <text x="58" y="527" class="rowRepo">external-secrets/external-secrets</text>
-      <text x="352" y="527" class="rowTitle">fix(akeyless): surface the real API error...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#6587</text>
+      <circle cx="43" cy="522" r="5" fill="#33B5E5" />
+      <text x="58" y="527" class="rowRepo">traefik/traefik</text>
+      <text x="352" y="527" class="rowTitle">doc: clarify resource name normalization ...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#13447</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">2 days ago</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">NVIDIA/gpu-operator</text>
-      <text x="352" y="563" class="rowTitle">feat: make ServiceMonitor API group confi...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#2574</text>
+      <text x="58" y="563" class="rowRepo">docker/buildx</text>
+      <text x="352" y="563" class="rowTitle">bake: reject targets inside target blocks</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#3906</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">2 days ago</text>
     
 
