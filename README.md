@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
+[![Repo aquasecurity/trivy](https://img.shields.io/badge/Repo-aquasecurity%2Ftrivy-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/aquasecurity/trivy)
+[![Repo kedacore/keda](https://img.shields.io/badge/Repo-kedacore%2Fkeda-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kedacore/keda)
 [![Repo docker/buildx](https://img.shields.io/badge/Repo-docker%2Fbuildx-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/docker/buildx)
-[![Repo open-policy-agent/gatekeeper](https://img.shields.io/badge/Repo-open-policy-agent%2Fgatekeeper-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-policy-agent/gatekeeper)
-[![Repo kyverno/kyverno](https://img.shields.io/badge/Repo-kyverno%2Fkyverno-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kyverno/kyverno)
 <!-- oss-dynamic-links:end -->
 
 </div>

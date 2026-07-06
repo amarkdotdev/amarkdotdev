@@ -20,16 +20,16 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-06 04:46 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-06 11:08 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">29</text>
+  <text x="44" y="125" class="bigValue">28</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="272" y="88" class="panelLabel">Merged OSS PRs</text>
-  <text x="272" y="125" class="bigValue">7</text>
+  <text x="272" y="125" class="bigValue">8</text>
   <text x="272" y="138" class="panelMeta">merged in external public repos</text>
 
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -69,7 +69,7 @@
     <text x="44" y="304" class="prTitle">fix(ui): filter project source</text>
     <text x="44" y="338" class="prTitle">repository autocomplete suggestions</text>
     <text x="590" y="308" class="panelMeta">PR #28580</text>
-    <text x="590" y="338" class="panelMeta">updated Jul 5, 2026</text>
+    <text x="590" y="338" class="panelMeta">updated Jul 6, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jul 5, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
@@ -86,23 +86,23 @@
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">docker/buildx</text>
-      <text x="352" y="491" class="rowTitle">imagetools: validate descriptor input for...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#3933</text>
+      <text x="58" y="491" class="rowRepo">aquasecurity/trivy</text>
+      <text x="352" y="491" class="rowTitle">feat: add --no-color flag to disable colo...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#10880</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">open-policy-agent/gatekeeper</text>
-      <text x="352" y="527" class="rowTitle">feat(constraints): scope excludedNamespac...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#4637</text>
+      <circle cx="43" cy="522" r="5" fill="#73BF69" />
+      <text x="58" y="527" class="rowRepo">kedacore/keda</text>
+      <text x="352" y="527" class="rowTitle">feat(rbac): aggregate KEDA CRD permission...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#7872</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">kyverno/kyverno</text>
-      <text x="352" y="563" class="rowTitle">fix(ivpol): add debug logging for CEL ima...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#16305</text>
+      <text x="58" y="563" class="rowRepo">docker/buildx</text>
+      <text x="352" y="563" class="rowTitle">imagetools: validate descriptor input for...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#3933</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
