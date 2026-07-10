@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-10 15:05 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-10 19:55 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -63,12 +63,12 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">hashicorp/consul</text>
+    <text x="44" y="270" class="repo">open-telemetry/opentelemetry-operator</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">ui: add acceptance coverage for</text>
-    <text x="44" y="338" class="prTitle">Service.Namespace dashboard URLs</text>
-    <text x="590" y="308" class="panelMeta">PR #23727</text>
+    <text x="44" y="304" class="prTitle">docs: add manager configuration</text>
+    <text x="44" y="338" class="prTitle">reference</text>
+    <text x="590" y="308" class="panelMeta">PR #5305</text>
     <text x="590" y="338" class="panelMeta">updated Jul 10, 2026</text>
     <text x="730" y="308" class="panelMeta">created Jul 10, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
@@ -78,31 +78,31 @@
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#73BF69" />
-      <text x="58" y="455" class="rowRepo">kubernetes/test-infra</text>
-      <text x="352" y="455" class="rowTitle">kueue: auto-run website link preview chec...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#37431</text>
+      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
+      <text x="58" y="455" class="rowRepo">open-telemetry/opentelemetry-operator</text>
+      <text x="352" y="455" class="rowTitle">docs: add manager configuration reference</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#5305</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#73BF69" />
-      <text x="58" y="491" class="rowRepo">kubernetes-sigs/kueue</text>
-      <text x="352" y="491" class="rowTitle">docs: document website link verification ...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#12957</text>
+      <text x="58" y="491" class="rowRepo">kubernetes/test-infra</text>
+      <text x="352" y="491" class="rowTitle">kueue: auto-run website link preview chec...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#37431</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">hashicorp/consul</text>
-      <text x="352" y="527" class="rowTitle">ui: add acceptance coverage for Service.N...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#23727</text>
+      <circle cx="43" cy="522" r="5" fill="#73BF69" />
+      <text x="58" y="527" class="rowRepo">kubernetes-sigs/kueue</text>
+      <text x="352" y="527" class="rowTitle">docs: document website link verification ...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#12957</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">open-telemetry/opentelemetry-operator</text>
-      <text x="352" y="563" class="rowTitle">docs: add manager configuration reference</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#5305</text>
+      <text x="58" y="563" class="rowRepo">hashicorp/consul</text>
+      <text x="352" y="563" class="rowTitle">ui: add acceptance coverage for Service.N...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#23727</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
