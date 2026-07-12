@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo kubernetes-sigs/kueue](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fkueue-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kueue)
-[![Repo hashicorp/consul](https://img.shields.io/badge/Repo-hashicorp%2Fconsul-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/hashicorp/consul)
-[![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
-[![Repo aws/karpenter-provider-aws](https://img.shields.io/badge/Repo-aws%2Fkarpenter-provider-aws-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/aws/karpenter-provider-aws)
+[![Repo cert-manager/cert-manager](https://img.shields.io/badge/Repo-cert-manager%2Fcert-manager-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cert-manager/cert-manager)
+[![Repo docker/buildx](https://img.shields.io/badge/Repo-docker%2Fbuildx-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/docker/buildx)
+[![Repo tektoncd/pipeline](https://img.shields.io/badge/Repo-tektoncd%2Fpipeline-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline)
 <!-- oss-dynamic-links:end -->
 
 </div>
