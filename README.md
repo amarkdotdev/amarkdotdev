@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-helm%2Fhelm%20%2332217-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm/pull/32217)
+[![Featured Contribution](https://img.shields.io/badge/Featured-kubernetes-sigs%2Fkueue%20%2312989-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kueue/pull/12989)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm/pull/32217)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kueue/pull/12989)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo helm/helm](https://img.shields.io/badge/Repo-helm%2Fhelm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm)
-[![Repo kubernetes-sigs/external-dns](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fexternal-dns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/external-dns)
+[![Repo kubernetes-sigs/kueue](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fkueue-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kueue)
+[![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
 [![Repo open-telemetry/opentelemetry-operator](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-operator)
-[![Repo docker/buildx](https://img.shields.io/badge/Repo-docker%2Fbuildx-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/docker/buildx)
+[![Repo helm/helm](https://img.shields.io/badge/Repo-helm%2Fhelm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/helm/helm)
 <!-- oss-dynamic-links:end -->
 
 </div>
