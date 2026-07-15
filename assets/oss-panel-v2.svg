@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-15 03:40 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-15 08:38 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -63,14 +63,14 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">ansible/ansible</text>
+    <text x="44" y="270" class="repo">crossplane/crossplane</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">pip: resolve virtualenv path when</text>
-    <text x="44" y="338" class="prTitle">chdir is relative</text>
-    <text x="590" y="308" class="panelMeta">PR #87247</text>
+    <text x="44" y="304" class="prTitle">test(e2e): use DefaultPollInterval</text>
+    <text x="44" y="338" class="prTitle">in remaining wait.For calls</text>
+    <text x="590" y="308" class="panelMeta">PR #7547</text>
     <text x="590" y="338" class="panelMeta">updated Jul 15, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jul 14, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 26, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
 
@@ -78,31 +78,31 @@
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">ansible/ansible</text>
-      <text x="352" y="455" class="rowTitle">pip: resolve virtualenv path when chdir i...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#87247</text>
+      <circle cx="43" cy="450" r="5" fill="#73BF69" />
+      <text x="58" y="455" class="rowRepo">argoproj/argo-workflows</text>
+      <text x="352" y="455" class="rowTitle">fix(ui): resolve login logo paths with no...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#16385</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="486" r="5" fill="#F2495C" />
-      <text x="58" y="491" class="rowRepo">ansible/ansible</text>
-      <text x="352" y="491" class="rowTitle">pip: resolve virtualenv path when chdir i...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#87175</text>
+      <circle cx="43" cy="486" r="5" fill="#33B5E5" />
+      <text x="58" y="491" class="rowRepo">crossplane/crossplane</text>
+      <text x="352" y="491" class="rowTitle">test(e2e): use DefaultPollInterval in rem...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#7547</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">opensearch-project/OpenSearch-Dashboards</text>
-      <text x="352" y="527" class="rowTitle">fix(discover): apply no-wrap styling to a...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#12262</text>
+      <text x="58" y="527" class="rowRepo">ansible/ansible</text>
+      <text x="352" y="527" class="rowTitle">pip: resolve virtualenv path when chdir i...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#87247</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">elastic/eland</text>
-      <text x="352" y="563" class="rowTitle">Collapse double negation in NotFilter</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#828</text>
+      <circle cx="43" cy="558" r="5" fill="#F2495C" />
+      <text x="58" y="563" class="rowRepo">ansible/ansible</text>
+      <text x="352" y="563" class="rowTitle">pip: resolve virtualenv path when chdir i...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#87175</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
