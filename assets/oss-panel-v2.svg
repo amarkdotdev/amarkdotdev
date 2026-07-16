@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-16 08:36 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-07-16 14:27 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -63,14 +63,14 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">prometheus-operator/prometheus-operator</text>
+    <text x="44" y="270" class="repo">argoproj/argo-cd</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">fix(prometheus): validate web TLS</text>
-    <text x="44" y="338" class="prTitle">secret keys during reconciliation</text>
-    <text x="590" y="308" class="panelMeta">PR #8645</text>
+    <text x="44" y="304" class="prTitle">fix: support bearer token auth on</text>
+    <text x="44" y="338" class="prTitle">terminal websocket endpoint</text>
+    <text x="590" y="308" class="panelMeta">PR #28285</text>
     <text x="590" y="338" class="panelMeta">updated Jul 16, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Jun 23, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Jun 15, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
   
 
@@ -79,31 +79,31 @@
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">prometheus-operator/prometheus-operator</text>
-      <text x="352" y="455" class="rowTitle">fix(prometheus): validate web TLS secret ...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#8645</text>
+      <text x="58" y="455" class="rowRepo">argoproj/argo-cd</text>
+      <text x="352" y="455" class="rowTitle">fix: support bearer token auth on termina...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#28285</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">kyverno/sdk</text>
-      <text x="352" y="491" class="rowTitle">fix(cel/image): return tag and tag@digest...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#121</text>
+      <text x="58" y="491" class="rowRepo">prometheus-operator/prometheus-operator</text>
+      <text x="352" y="491" class="rowTitle">fix(prometheus): validate web TLS secret ...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#8645</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">crossplane/crossplane</text>
-      <text x="352" y="527" class="rowTitle">test(e2e): use DefaultPollInterval in rem...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#7547</text>
+      <text x="58" y="527" class="rowRepo">kyverno/sdk</text>
+      <text x="352" y="527" class="rowTitle">fix(cel/image): return tag and tag@digest...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#121</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="558" r="5" fill="#73BF69" />
-      <text x="58" y="563" class="rowRepo">argoproj/argo-workflows</text>
-      <text x="352" y="563" class="rowTitle">fix(ui): resolve login logo paths with no...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#16385</text>
-      <text x="876" y="563" text-anchor="end" class="rowMeta">1 day ago</text>
+      <circle cx="43" cy="558" r="5" fill="#33B5E5" />
+      <text x="58" y="563" class="rowRepo">crossplane/crossplane</text>
+      <text x="352" y="563" class="rowTitle">test(e2e): use DefaultPollInterval in rem...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#7547</text>
+      <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
   <style>
