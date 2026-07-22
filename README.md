@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-argoproj%2Fargo-cd%20%2328598-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd/pull/28598)
+[![Featured Contribution](https://img.shields.io/badge/Featured-jenkinsci%2Fkubernetes-plugin%20%232850-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/kubernetes-plugin/pull/2850)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd/pull/28598)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/kubernetes-plugin/pull/2850)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo jenkinsci/kubernetes-plugin](https://img.shields.io/badge/Repo-jenkinsci%2Fkubernetes-plugin-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jenkinsci/kubernetes-plugin)
 [![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
 [![Repo kubernetes-sigs/kueue](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fkueue-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kueue)
 [![Repo fluxcd/notification-controller](https://img.shields.io/badge/Repo-fluxcd%2Fnotification-controller-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/notification-controller)
-[![Repo ansible/ansible](https://img.shields.io/badge/Repo-ansible%2Fansible-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible)
 <!-- oss-dynamic-links:end -->
 
 </div>
