@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-NVIDIA%2Fgpu-operator%20%232645-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator/pull/2645)
+[![Featured Contribution](https://img.shields.io/badge/Featured-kubernetes-sigs%2Fkind%20%234228-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kind/pull/4228)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator/pull/2645)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kind/pull/4228)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo ansible/ansible](https://img.shields.io/badge/Repo-ansible%2Fansible-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible)
-[![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
-[![Repo kubernetes-sigs/external-dns](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fexternal-dns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/external-dns)
-[![Repo apple/container](https://img.shields.io/badge/Repo-apple%2Fcontainer-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/container)
+[![Repo kubernetes-sigs/kind](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fkind-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kind)
+[![Repo thanos-io/thanos](https://img.shields.io/badge/Repo-thanos-io%2Fthanos-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/thanos-io/thanos)
+[![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
+[![Repo cilium/tetragon](https://img.shields.io/badge/Repo-cilium%2Ftetragon-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/tetragon)
 <!-- oss-dynamic-links:end -->
 
 </div>
