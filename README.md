@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-NVIDIA%2Fk8s-device-plugin%20%231928-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/k8s-device-plugin/pull/1928)
+[![Featured Contribution](https://img.shields.io/badge/Featured-cilium%2Ftetragon%20%235356-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/tetragon/pull/5356)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/k8s-device-plugin/pull/1928)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/tetragon/pull/5356)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo cilium/tetragon](https://img.shields.io/badge/Repo-cilium%2Ftetragon-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/tetragon)
+[![Repo open-telemetry/opentelemetry-operator](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-operator)
 [![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
 [![Repo NVIDIA/k8s-device-plugin](https://img.shields.io/badge/Repo-NVIDIA%2Fk8s-device-plugin-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/k8s-device-plugin)
-[![Repo open-telemetry/opentelemetry-operator](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-operator)
-[![Repo tektoncd/pipeline](https://img.shields.io/badge/Repo-tektoncd%2Fpipeline-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline)
 <!-- oss-dynamic-links:end -->
 
 </div>
