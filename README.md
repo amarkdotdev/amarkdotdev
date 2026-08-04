@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo apple/swift-protobuf](https://img.shields.io/badge/Repo-apple%2Fswift-protobuf-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-protobuf)
 [![Repo grafana/alerting](https://img.shields.io/badge/Repo-grafana%2Falerting-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alerting)
 [![Repo cert-manager/approver-policy](https://img.shields.io/badge/Repo-cert-manager%2Fapprover-policy-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cert-manager/approver-policy)
 [![Repo fluxcd/go-git-providers](https://img.shields.io/badge/Repo-fluxcd%2Fgo-git-providers-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/go-git-providers)
-[![Repo apple/swift-protobuf](https://img.shields.io/badge/Repo-apple%2Fswift-protobuf-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-protobuf)
 <!-- oss-dynamic-links:end -->
 
 </div>
