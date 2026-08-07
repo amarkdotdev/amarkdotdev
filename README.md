@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-argoproj%2Fargo-events%20%234114-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-events/pull/4114)
+[![Featured Contribution](https://img.shields.io/badge/Featured-argoproj%2Fargo-workflows%20%2316273-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows/pull/16273)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-events/pull/4114)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows/pull/16273)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo argoproj/argo-workflows](https://img.shields.io/badge/Repo-argoproj%2Fargo-workflows-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows)
+[![Repo cilium/tetragon](https://img.shields.io/badge/Repo-cilium%2Ftetragon-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/tetragon)
 [![Repo argoproj/argo-events](https://img.shields.io/badge/Repo-argoproj%2Fargo-events-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-events)
 [![Repo fluxcd/source-controller](https://img.shields.io/badge/Repo-fluxcd%2Fsource-controller-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/source-controller)
-[![Repo jfrog/jfrog-cli](https://img.shields.io/badge/Repo-jfrog%2Fjfrog-cli-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jfrog/jfrog-cli)
-[![Repo open-policy-agent/gatekeeper](https://img.shields.io/badge/Repo-open-policy-agent%2Fgatekeeper-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-policy-agent/gatekeeper)
 <!-- oss-dynamic-links:end -->
 
 </div>
