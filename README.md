@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-grafana%2Falloy-scenarios%20%23397-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alloy-scenarios/pull/397)
+[![Featured Contribution](https://img.shields.io/badge/Featured-grafana%2Fathena-datasource%20%23889-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/athena-datasource/pull/889)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alloy-scenarios/pull/397)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/athena-datasource/pull/889)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo grafana/alloy-scenarios](https://img.shields.io/badge/Repo-grafana%2Falloy-scenarios-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alloy-scenarios)
-[![Repo grafana/alerting](https://img.shields.io/badge/Repo-grafana%2Falerting-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alerting)
-[![Repo thanos-io/thanos](https://img.shields.io/badge/Repo-thanos-io%2Fthanos-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/thanos-io/thanos)
-[![Repo fluxcd/notification-controller](https://img.shields.io/badge/Repo-fluxcd%2Fnotification-controller-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/notification-controller)
+[![Repo grafana/athena-datasource](https://img.shields.io/badge/Repo-grafana%2Fathena-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/athena-datasource)
+[![Repo grafana/x-ray-datasource](https://img.shields.io/badge/Repo-grafana%2Fx-ray-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/x-ray-datasource)
+[![Repo apple/swift-system-metrics](https://img.shields.io/badge/Repo-apple%2Fswift-system-metrics-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-system-metrics)
+[![Repo grafana/grafana-pathfinder-app](https://img.shields.io/badge/Repo-grafana%2Fgrafana-pathfinder-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app)
 <!-- oss-dynamic-links:end -->
 
 </div>
