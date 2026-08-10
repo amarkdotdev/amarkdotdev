@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo grafana/grafana-pathfinder-app](https://img.shields.io/badge/Repo-grafana%2Fgrafana-pathfinder-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app)
 [![Repo cilium/pwru](https://img.shields.io/badge/Repo-cilium%2Fpwru-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/pwru)
+[![Repo googleapis/gapic-generator-php](https://img.shields.io/badge/Repo-googleapis%2Fgapic-generator-php-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/googleapis/gapic-generator-php)
+[![Repo grafana/grafana-pathfinder-app](https://img.shields.io/badge/Repo-grafana%2Fgrafana-pathfinder-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app)
 [![Repo thanos-io/thanos](https://img.shields.io/badge/Repo-thanos-io%2Fthanos-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/thanos-io/thanos)
-[![Repo grafana/pyroscope](https://img.shields.io/badge/Repo-grafana%2Fpyroscope-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/pyroscope)
 <!-- oss-dynamic-links:end -->
 
 </div>
