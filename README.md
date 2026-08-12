@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo kedacore/keda](https://img.shields.io/badge/Repo-kedacore%2Fkeda-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kedacore/keda)
 [![Repo cilium/pwru](https://img.shields.io/badge/Repo-cilium%2Fpwru-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/pwru)
 [![Repo apple/swift-configuration](https://img.shields.io/badge/Repo-apple%2Fswift-configuration-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-configuration)
 [![Repo grafana/alloy-scenarios](https://img.shields.io/badge/Repo-grafana%2Falloy-scenarios-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alloy-scenarios)
-[![Repo googleapis/gapic-generator-php](https://img.shields.io/badge/Repo-googleapis%2Fgapic-generator-php-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/googleapis/gapic-generator-php)
 <!-- oss-dynamic-links:end -->
 
 </div>
