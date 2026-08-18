@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-ansible%2Fansible%20%2387247-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible/pull/87247)
+[![Featured Contribution](https://img.shields.io/badge/Featured-grafana%2Fpyroscope%20%235482-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/pyroscope/pull/5482)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible/pull/87247)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/pyroscope/pull/5482)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
-[![Repo argoproj/argo-events](https://img.shields.io/badge/Repo-argoproj%2Fargo-events-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-events)
-[![Repo aws/karpenter-provider-aws](https://img.shields.io/badge/Repo-aws%2Fkarpenter-provider-aws-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/aws/karpenter-provider-aws)
+[![Repo grafana/pyroscope](https://img.shields.io/badge/Repo-grafana%2Fpyroscope-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/pyroscope)
+[![Repo grafana/synthetic-monitoring-app](https://img.shields.io/badge/Repo-grafana%2Fsynthetic-monitoring-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/synthetic-monitoring-app)
 [![Repo ansible/ansible](https://img.shields.io/badge/Repo-ansible%2Fansible-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible)
-[![Repo kedacore/keda](https://img.shields.io/badge/Repo-kedacore%2Fkeda-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kedacore/keda)
+[![Repo cilium/pwru](https://img.shields.io/badge/Repo-cilium%2Fpwru-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cilium/pwru)
 <!-- oss-dynamic-links:end -->
 
 </div>
