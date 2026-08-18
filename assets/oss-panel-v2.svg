@@ -20,16 +20,16 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-08-18 13:12 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-08-18 19:01 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">65</text>
+  <text x="44" y="125" class="bigValue">67</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="272" y="88" class="panelLabel">Merged OSS PRs</text>
-  <text x="272" y="125" class="bigValue">30</text>
+  <text x="272" y="125" class="bigValue">31</text>
   <text x="272" y="138" class="panelMeta">merged in external public repos</text>
 
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -63,12 +63,12 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">grafana/grafana-pathfinder-app</text>
-    <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
-    <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">fix(block-editor): stop Challenge</text>
-    <text x="44" y="338" class="prTitle">creating empty markdown in branches</text>
-    <text x="590" y="308" class="panelMeta">PR #1642</text>
+    <text x="44" y="270" class="repo">jfrog/artifactory-client-java</text>
+    <rect x="724" y="236" width="132" height="30" rx="15" fill="#FFB357" opacity="0.18" />
+    <text x="790" y="256" text-anchor="middle" class="state" fill="#FFB357">STATUS: DRAFT</text>
+    <text x="44" y="304" class="prTitle">docs: clarify timeout units are</text>
+    <text x="44" y="338" class="prTitle">milliseconds</text>
+    <text x="590" y="308" class="panelMeta">PR #454</text>
     <text x="590" y="338" class="panelMeta">updated Aug 18, 2026</text>
     <text x="730" y="308" class="panelMeta">created Aug 18, 2026</text>
     <text x="730" y="338" class="panelMeta">today</text>
@@ -78,31 +78,31 @@
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
-      <text x="58" y="455" class="rowRepo">grafana/grafana-pathfinder-app</text>
-      <text x="352" y="455" class="rowTitle">fix(block-editor): stop Challenge creatin...</text>
-      <text x="790" y="455" text-anchor="end" class="rowMeta">#1642</text>
+      <circle cx="43" cy="450" r="5" fill="#FFB357" />
+      <text x="58" y="455" class="rowRepo">jfrog/artifactory-client-java</text>
+      <text x="352" y="455" class="rowTitle">docs: clarify timeout units are milliseco...</text>
+      <text x="790" y="455" text-anchor="end" class="rowMeta">#454</text>
       <text x="876" y="455" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="486" r="5" fill="#73BF69" />
-      <text x="58" y="491" class="rowRepo">grafana/grafana-pathfinder-app</text>
-      <text x="352" y="491" class="rowTitle">fix(e2e): add Pathfinder tutorial data-te...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#1641</text>
+      <circle cx="43" cy="486" r="5" fill="#FFB357" />
+      <text x="58" y="491" class="rowRepo">jfrog/setup-jfrog-cli</text>
+      <text x="352" y="491" class="rowTitle">fix: stop treating OIDC username as a sec...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#345</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">grafana/pyroscope</text>
-      <text x="352" y="527" class="rowTitle">TODO</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#5482</text>
+      <circle cx="43" cy="522" r="5" fill="#FFB357" />
+      <text x="58" y="527" class="rowRepo">jfrog/setup-jfrog-cli</text>
+      <text x="352" y="527" class="rowTitle">fix: set JFROG_CLI_GHOST_FROG when packag...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#344</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="558" r="5" fill="#FFB357" />
-      <text x="58" y="563" class="rowRepo">microsoft/WPF-Samples</text>
-      <text x="352" y="563" class="rowTitle">feat: port HelloWorld sample to Fluent th...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#809</text>
+      <circle cx="43" cy="558" r="5" fill="#33B5E5" />
+      <text x="58" y="563" class="rowRepo">argoproj/argo-cd</text>
+      <text x="352" y="563" class="rowTitle">feat(cli): add --verbose flag to argocd-k...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#28598</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
