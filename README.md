@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-microsoft%2FWPF-Samples%20%23809-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/microsoft/WPF-Samples/pull/809)
+[![Featured Contribution](https://img.shields.io/badge/Featured-grafana%2Fgrafana-pathfinder-app%20%231642-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app/pull/1642)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/microsoft/WPF-Samples/pull/809)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app/pull/1642)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo grafana/grafana-pathfinder-app](https://img.shields.io/badge/Repo-grafana%2Fgrafana-pathfinder-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana-pathfinder-app)
+[![Repo grafana/pyroscope](https://img.shields.io/badge/Repo-grafana%2Fpyroscope-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/pyroscope)
 [![Repo microsoft/WPF-Samples](https://img.shields.io/badge/Repo-microsoft%2FWPF-Samples-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/microsoft/WPF-Samples)
 [![Repo hashicorp/packer-plugin-azure](https://img.shields.io/badge/Repo-hashicorp%2Fpacker-plugin-azure-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/hashicorp/packer-plugin-azure)
-[![Repo microsoft/profile-explorer](https://img.shields.io/badge/Repo-microsoft%2Fprofile-explorer-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/microsoft/profile-explorer)
-[![Repo grafana/docker-otel-lgtm](https://img.shields.io/badge/Repo-grafana%2Fdocker-otel-lgtm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/docker-otel-lgtm)
 <!-- oss-dynamic-links:end -->
 
 </div>
