@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo argoproj/argo-cd](https://img.shields.io/badge/Repo-argoproj%2Fargo-cd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-cd)
-[![Repo google/jsir](https://img.shields.io/badge/Repo-google%2Fjsir-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/google/jsir)
-[![Repo NVIDIA/k8s-device-plugin](https://img.shields.io/badge/Repo-NVIDIA%2Fk8s-device-plugin-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/k8s-device-plugin)
-[![Repo NVIDIA/cudf-spark](https://img.shields.io/badge/Repo-NVIDIA%2Fcudf-spark-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/cudf-spark)
+[![Repo argoproj/argo-workflows](https://img.shields.io/badge/Repo-argoproj%2Fargo-workflows-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows)
+[![Repo open-telemetry/opentelemetry-operator](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-operator)
+[![Repo ansible/ansible](https://img.shields.io/badge/Repo-ansible%2Fansible-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible)
 <!-- oss-dynamic-links:end -->
 
 </div>
