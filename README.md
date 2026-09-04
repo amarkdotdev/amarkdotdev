@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
-[![Repo argoproj/argo-helm](https://img.shields.io/badge/Repo-argoproj%2Fargo-helm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm)
-[![Repo fluxcd/source-controller](https://img.shields.io/badge/Repo-fluxcd%2Fsource-controller-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/fluxcd/source-controller)
-[![Repo kubernetes-sigs/kind](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fkind-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/kind)
+[![Repo containerd/containerd](https://img.shields.io/badge/Repo-containerd%2Fcontainerd-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/containerd/containerd)
+[![Repo GoogleCloudPlatform/PerfKitBenchmarker](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2FPerfKitBenchmarker-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
+[![Repo traefik/traefik](https://img.shields.io/badge/Repo-traefik%2Ftraefik-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik)
 <!-- oss-dynamic-links:end -->
 
 </div>
