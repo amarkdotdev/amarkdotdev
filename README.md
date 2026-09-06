@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-opensearch-project%2FOpenSearch-Dashboards%20%2312262-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards/pull/12262)
+[![Featured Contribution](https://img.shields.io/badge/Featured-open-telemetry%2Fopentelemetry-dotnet%20%237713-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-dotnet/pull/7713)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards/pull/12262)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-dotnet/pull/7713)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo open-telemetry/opentelemetry-dotnet](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-dotnet-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-dotnet)
 [![Repo opensearch-project/OpenSearch-Dashboards](https://img.shields.io/badge/Repo-opensearch-project%2FOpenSearch-Dashboards-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/opensearch-project/OpenSearch-Dashboards)
 [![Repo argoproj/argo-helm](https://img.shields.io/badge/Repo-argoproj%2Fargo-helm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm)
 [![Repo open-telemetry/opentelemetry-collector-contrib](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-contrib-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-[![Repo google/jsir](https://img.shields.io/badge/Repo-google%2Fjsir-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/google/jsir)
 <!-- oss-dynamic-links:end -->
 
 </div>
