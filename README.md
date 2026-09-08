@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo GoogleCloudPlatform/market-data-transcoder](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2Fmarket-data-transcoder-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/market-data-transcoder)
 [![Repo ansible/ansible](https://img.shields.io/badge/Repo-ansible%2Fansible-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/ansible/ansible)
 [![Repo elastic/go-grok](https://img.shields.io/badge/Repo-elastic%2Fgo-grok-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/elastic/go-grok)
 [![Repo traefik/traefik](https://img.shields.io/badge/Repo-traefik%2Ftraefik-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik)
-[![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
 <!-- oss-dynamic-links:end -->
 
 </div>
