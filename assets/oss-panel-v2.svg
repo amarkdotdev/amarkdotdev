@@ -20,7 +20,7 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-09-09 04:52 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-09-09 11:33 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
@@ -86,23 +86,23 @@
     
       <line x1="28" y1="468" x2="892" y2="468" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="486" r="5" fill="#33B5E5" />
-      <text x="58" y="491" class="rowRepo">googleapis/mcp-toolbox</text>
-      <text x="352" y="491" class="rowTitle">docs: add security review section for age...</text>
-      <text x="790" y="491" text-anchor="end" class="rowMeta">#3910</text>
+      <text x="58" y="491" class="rowRepo">argoproj/argo-helm</text>
+      <text x="352" y="491" class="rowTitle">fix(argo-workflows): restart controller o...</text>
+      <text x="790" y="491" text-anchor="end" class="rowMeta">#4061</text>
       <text x="876" y="491" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="504" x2="892" y2="504" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="522" r="5" fill="#33B5E5" />
-      <text x="58" y="527" class="rowRepo">traefik/traefik</text>
-      <text x="352" y="527" class="rowTitle">feat(acme): add certificate renewal track...</text>
-      <text x="790" y="527" text-anchor="end" class="rowMeta">#13814</text>
+      <text x="58" y="527" class="rowRepo">googleapis/mcp-toolbox</text>
+      <text x="352" y="527" class="rowTitle">docs: add security review section for age...</text>
+      <text x="790" y="527" text-anchor="end" class="rowMeta">#3910</text>
       <text x="876" y="527" text-anchor="end" class="rowMeta">today</text>
     
       <line x1="28" y1="540" x2="892" y2="540" stroke="#293241" stroke-width="1" />
       <circle cx="43" cy="558" r="5" fill="#33B5E5" />
-      <text x="58" y="563" class="rowRepo">open-telemetry/opentelemetry-collector-contrib</text>
-      <text x="352" y="563" class="rowTitle">feat(opamp): forward component status att...</text>
-      <text x="790" y="563" text-anchor="end" class="rowMeta">#50749</text>
+      <text x="58" y="563" class="rowRepo">traefik/traefik</text>
+      <text x="352" y="563" class="rowTitle">feat(acme): add certificate renewal track...</text>
+      <text x="790" y="563" text-anchor="end" class="rowMeta">#13814</text>
       <text x="876" y="563" text-anchor="end" class="rowMeta">today</text>
     
 
