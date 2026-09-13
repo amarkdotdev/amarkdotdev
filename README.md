@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo podman-container-tools/podman](https://img.shields.io/badge/Repo-podman-container-tools%2Fpodman-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/podman-container-tools/podman)
 [![Repo GoogleCloudPlatform/vertex-ai-creative-studio](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2Fvertex-ai-creative-studio-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
 [![Repo apple/swift-mmio](https://img.shields.io/badge/Repo-apple%2Fswift-mmio-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-mmio)
 [![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
-[![Repo prometheus-operator/prometheus-operator](https://img.shields.io/badge/Repo-prometheus-operator%2Fprometheus-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/prometheus-operator/prometheus-operator)
 <!-- oss-dynamic-links:end -->
 
 </div>
