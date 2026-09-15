@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo elastic/beats](https://img.shields.io/badge/Repo-elastic%2Fbeats-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/elastic/beats)
+[![Repo argoproj/argo-helm](https://img.shields.io/badge/Repo-argoproj%2Fargo-helm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm)
+[![Repo NVIDIA/k8s-device-plugin](https://img.shields.io/badge/Repo-NVIDIA%2Fk8s-device-plugin-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/k8s-device-plugin)
 [![Repo argoproj/argo-workflows](https://img.shields.io/badge/Repo-argoproj%2Fargo-workflows-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows)
-[![Repo traefik/traefik](https://img.shields.io/badge/Repo-traefik%2Ftraefik-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik)
-[![Repo kubernetes-sigs/external-dns](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fexternal-dns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/external-dns)
 <!-- oss-dynamic-links:end -->
 
 </div>
