@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-NVIDIA%2Fgpu-operator%20%232645-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator/pull/2645)
+[![Featured Contribution](https://img.shields.io/badge/Featured-open-telemetry%2Fopentelemetry-collector-contrib%20%2350749-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/50749)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator/pull/2645)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/50749)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo open-telemetry/opentelemetry-collector-contrib](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-contrib-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+[![Repo hashicorp/packer-plugin-azure](https://img.shields.io/badge/Repo-hashicorp%2Fpacker-plugin-azure-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/hashicorp/packer-plugin-azure)
 [![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
 [![Repo GoogleCloudPlatform/vertex-ai-creative-studio](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2Fvertex-ai-creative-studio-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
-[![Repo traefik/traefik](https://img.shields.io/badge/Repo-traefik%2Ftraefik-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/traefik/traefik)
-[![Repo hashicorp/packer-plugin-azure](https://img.shields.io/badge/Repo-hashicorp%2Fpacker-plugin-azure-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/hashicorp/packer-plugin-azure)
 <!-- oss-dynamic-links:end -->
 
 </div>
