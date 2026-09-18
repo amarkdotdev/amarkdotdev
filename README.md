@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-envoyproxy%2Fgateway%20%239949-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway/pull/9949)
+[![Featured Contribution](https://img.shields.io/badge/Featured-GoogleCloudPlatform%2FPerfKitBenchmarker%20%237038-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker/pull/7038)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway/pull/9949)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker/pull/7038)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo GoogleCloudPlatform/PerfKitBenchmarker](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2FPerfKitBenchmarker-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
+[![Repo grafana/synthetic-monitoring-app](https://img.shields.io/badge/Repo-grafana%2Fsynthetic-monitoring-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/synthetic-monitoring-app)
+[![Repo GoogleCloudPlatform/vertex-ai-creative-studio](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2Fvertex-ai-creative-studio-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
 [![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
-[![Repo grafana/tempo](https://img.shields.io/badge/Repo-grafana%2Ftempo-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/tempo)
-[![Repo grafana/x-ray-datasource](https://img.shields.io/badge/Repo-grafana%2Fx-ray-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/x-ray-datasource)
-[![Repo grafana/athena-datasource](https://img.shields.io/badge/Repo-grafana%2Fathena-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/athena-datasource)
 <!-- oss-dynamic-links:end -->
 
 </div>
