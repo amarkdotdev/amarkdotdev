@@ -76,7 +76,7 @@ available_for:
 <div align="center">
 
 <!-- featured-contribution:start -->
-[![Featured Contribution](https://img.shields.io/badge/Featured-googleapis%2Fgapic-generator-php%20%23853-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/googleapis/gapic-generator-php/pull/853)
+[![Featured Contribution](https://img.shields.io/badge/Featured-argoproj%2Fargo-helm%20%234061-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm/pull/4061)
 <!-- featured-contribution:end -->
 [![Email](https://img.shields.io/badge/Email-018aharon%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117)](mailto:018aharon@gmail.com)
 
@@ -97,14 +97,14 @@ available_for:
 <br/>
 
 <!-- oss-dynamic-links:start -->
-[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/googleapis/gapic-generator-php/pull/853)
+[![View Featured Contribution](https://img.shields.io/badge/View-Featured%20Contribution-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm/pull/4061)
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo argoproj/argo-helm](https://img.shields.io/badge/Repo-argoproj%2Fargo-helm-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-helm)
 [![Repo googleapis/gapic-generator-php](https://img.shields.io/badge/Repo-googleapis%2Fgapic-generator-php-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/googleapis/gapic-generator-php)
 [![Repo GoogleCloudPlatform/PerfKitBenchmarker](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2FPerfKitBenchmarker-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 [![Repo grafana/synthetic-monitoring-app](https://img.shields.io/badge/Repo-grafana%2Fsynthetic-monitoring-app-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/synthetic-monitoring-app)
-[![Repo GoogleCloudPlatform/vertex-ai-creative-studio](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2Fvertex-ai-creative-studio-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
 <!-- oss-dynamic-links:end -->
 
 </div>
