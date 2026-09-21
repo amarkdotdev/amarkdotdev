@@ -20,16 +20,16 @@
   <text x="28" y="44" class="title">OSS Contribution Panel</text>
   <circle cx="286" cy="38" r="5" fill="#73BF69" filter="url(#glow)" />
   <text x="300" y="43" class="live">LIVE</text>
-  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-09-21 05:07 UTC</text>
+  <text x="892" y="43" text-anchor="end" class="meta">refreshed 2026-09-21 13:00 UTC</text>
 
   <rect x="28" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="88" class="panelLabel">Open OSS PRs</text>
-  <text x="44" y="125" class="bigValue">77</text>
+  <text x="44" y="125" class="bigValue">76</text>
   <text x="44" y="138" class="panelMeta">active in external public repos</text>
 
   <rect x="256" y="62" width="200" height="84" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="272" y="88" class="panelLabel">Merged OSS PRs</text>
-  <text x="272" y="125" class="bigValue">49</text>
+  <text x="272" y="125" class="bigValue">50</text>
   <text x="272" y="138" class="panelMeta">merged in external public repos</text>
 
   <rect x="484" y="62" width="392" height="136" rx="14" fill="#1D2430" stroke="#2F3B4C" />
@@ -63,22 +63,22 @@
   <rect x="28" y="214" width="864" height="170" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="242" class="panelLabel">Featured contribution</text>
   
-    <text x="44" y="270" class="repo">argoproj/argo-helm</text>
+    <text x="44" y="270" class="repo">GoogleCloudPlatform/PerfKitBenchmarker</text>
     <rect x="724" y="236" width="132" height="30" rx="15" fill="#33B5E5" opacity="0.18" />
     <text x="790" y="256" text-anchor="middle" class="state" fill="#33B5E5">STATUS: OPEN</text>
-    <text x="44" y="304" class="prTitle">fix(argo-workflows): restart</text>
-    <text x="44" y="338" class="prTitle">controller on config change</text>
-    <text x="590" y="308" class="panelMeta">PR #4061</text>
-    <text x="590" y="338" class="panelMeta">updated Sep 20, 2026</text>
-    <text x="730" y="308" class="panelMeta">created Sep 4, 2026</text>
-    <text x="730" y="338" class="panelMeta">today</text>
+    <text x="44" y="304" class="prTitle">feat: scaffold Windows 7-zip</text>
+    <text x="44" y="338" class="prTitle">benchmark</text>
+    <text x="590" y="308" class="panelMeta">PR #7038</text>
+    <text x="590" y="338" class="panelMeta">updated Sep 19, 2026</text>
+    <text x="730" y="308" class="panelMeta">created Aug 30, 2026</text>
+    <text x="730" y="338" class="panelMeta">1 day ago</text>
   
 
   <rect x="28" y="408" width="864" height="154" rx="14" fill="#1D2430" stroke="#2F3B4C" />
   <text x="44" y="436" class="panelLabel">Recent public OSS pull requests</text>
   
       <line x1="28" y1="432" x2="892" y2="432" stroke="#293241" stroke-width="1" />
-      <circle cx="43" cy="450" r="5" fill="#33B5E5" />
+      <circle cx="43" cy="450" r="5" fill="#73BF69" />
       <text x="58" y="455" class="rowRepo">argoproj/argo-helm</text>
       <text x="352" y="455" class="rowTitle">fix(argo-workflows): restart controller o...</text>
       <text x="790" y="455" text-anchor="end" class="rowMeta">#4061</text>
