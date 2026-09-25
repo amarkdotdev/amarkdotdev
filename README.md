@@ -102,9 +102,9 @@ available_for:
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
 [![Repo open-telemetry/opentelemetry-collector-contrib](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-contrib-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+[![Repo docker/model-runner](https://img.shields.io/badge/Repo-docker%2Fmodel-runner-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/docker/model-runner)
 [![Repo apple/swift-container-plugin](https://img.shields.io/badge/Repo-apple%2Fswift-container-plugin-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/apple/swift-container-plugin)
 [![Repo open-telemetry/opentelemetry-collector](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector)
-[![Repo kubernetes-sigs/external-dns](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fexternal-dns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/external-dns)
 <!-- oss-dynamic-links:end -->
 
 </div>
