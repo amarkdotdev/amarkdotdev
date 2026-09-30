@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo GoogleCloudPlatform/PerfKitBenchmarker](https://img.shields.io/badge/Repo-GoogleCloudPlatform%2FPerfKitBenchmarker-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 [![Repo tektoncd/pipeline](https://img.shields.io/badge/Repo-tektoncd%2Fpipeline-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/tektoncd/pipeline)
 [![Repo jfrog/charts](https://img.shields.io/badge/Repo-jfrog%2Fcharts-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/jfrog/charts)
 [![Repo google/jsir](https://img.shields.io/badge/Repo-google%2Fjsir-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/google/jsir)
-[![Repo open-telemetry/opentelemetry-collector-contrib](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-contrib-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 <!-- oss-dynamic-links:end -->
 
 </div>
