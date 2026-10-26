@@ -101,9 +101,9 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
 [![Repo open-telemetry/opentelemetry-collector](https://img.shields.io/badge/Repo-open-telemetry%2Fopentelemetry-collector-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/open-telemetry/opentelemetry-collector)
 [![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
-[![Repo NVIDIA/gpu-operator](https://img.shields.io/badge/Repo-NVIDIA%2Fgpu-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/NVIDIA/gpu-operator)
 [![Repo prometheus-operator/prometheus-operator](https://img.shields.io/badge/Repo-prometheus-operator%2Fprometheus-operator-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/prometheus-operator/prometheus-operator)
 <!-- oss-dynamic-links:end -->
 
