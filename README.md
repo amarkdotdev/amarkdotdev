@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo grafana/x-ray-datasource](https://img.shields.io/badge/Repo-grafana%2Fx-ray-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/x-ray-datasource)
+[![Repo grafana/athena-datasource](https://img.shields.io/badge/Repo-grafana%2Fathena-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/athena-datasource)
 [![Repo kubernetes-sigs/external-dns](https://img.shields.io/badge/Repo-kubernetes-sigs%2Fexternal-dns-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/kubernetes-sigs/external-dns)
 [![Repo argoproj/argo-events](https://img.shields.io/badge/Repo-argoproj%2Fargo-events-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-events)
-[![Repo envoyproxy/gateway](https://img.shields.io/badge/Repo-envoyproxy%2Fgateway-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/envoyproxy/gateway)
-[![Repo FalkorDB/FalkorDB](https://img.shields.io/badge/Repo-FalkorDB%2FFalkorDB-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/FalkorDB/FalkorDB)
 <!-- oss-dynamic-links:end -->
 
 </div>
