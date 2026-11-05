@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo grafana/grafana](https://img.shields.io/badge/Repo-grafana%2Fgrafana-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana)
+[![Repo grafana/alloy-scenarios](https://img.shields.io/badge/Repo-grafana%2Falloy-scenarios-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/alloy-scenarios)
 [![Repo knative/serving](https://img.shields.io/badge/Repo-knative%2Fserving-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/knative/serving)
 [![Repo knative/pkg](https://img.shields.io/badge/Repo-knative%2Fpkg-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/knative/pkg)
-[![Repo knative/eventing](https://img.shields.io/badge/Repo-knative%2Feventing-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/knative/eventing)
-[![Repo grafana/x-ray-datasource](https://img.shields.io/badge/Repo-grafana%2Fx-ray-datasource-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/x-ray-datasource)
 <!-- oss-dynamic-links:end -->
 
 </div>
