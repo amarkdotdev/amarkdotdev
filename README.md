@@ -101,10 +101,10 @@ available_for:
 [![Open OSS PRs](https://img.shields.io/badge/View-Open%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20is%3Aopen%20-user%3Aamarkdotdev)
 [![All Public OSS PRs](https://img.shields.io/badge/View-All%20Public%20OSS%20PRs-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/pulls?q=is%3Apr%20author%3Aamarkdotdev%20is%3Apublic%20-user%3Aamarkdotdev)
 
+[![Repo grafana/grafana](https://img.shields.io/badge/Repo-grafana%2Fgrafana-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/grafana/grafana)
 [![Repo cert-manager/makefile-modules](https://img.shields.io/badge/Repo-cert-manager%2Fmakefile-modules-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/cert-manager/makefile-modules)
 [![Repo elastic/beats](https://img.shields.io/badge/Repo-elastic%2Fbeats-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/elastic/beats)
 [![Repo argoproj/argo-workflows](https://img.shields.io/badge/Repo-argoproj%2Fargo-workflows-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/argoproj/argo-workflows)
-[![Repo knative/serving](https://img.shields.io/badge/Repo-knative%2Fserving-0d1117?style=flat-square&logo=github&logoColor=00b4d8&labelColor=0d1117)](https://github.com/knative/serving)
 <!-- oss-dynamic-links:end -->
 
 </div>
